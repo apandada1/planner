@@ -1,7 +1,7 @@
-Source: com.github.alainm23.planner
+Source: elementary-planner
 Section: x11
 Priority: extra
-Maintainer: Alain M. <alainmh23@gmail.com>
+Maintainer: Archisman Panigrahi <apandada1@gmail.com>
 Build-Depends: appstream,
                debhelper (>= 9),
                desktop-file-utils,
@@ -19,7 +19,7 @@ Build-Depends: appstream,
                valac (>= 0.40.3)
 Standards-Version: 3.9.3
 
-Package: com.github.alainm23.planner
+Package: elementary-planner
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends},
 Description: Task manager with Todoist support designed for GNU/Linux

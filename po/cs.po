@@ -1,0 +1,1442 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the com.github.alainm23.planner package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: com.github.alainm23.planner\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-08 13:24-0500\n"
+"PO-Revision-Date: 2020-04-14 16:11+0000\n"
+"Last-Translator: 12people <contact.mirek@protonmail.com>\n"
+"Language-Team: Czech <https://hosted.weblate.org/projects/planner/"
+"translations/cs/>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Weblate 4.0-dev\n"
+
+#: src/MainWindow.vala:50
+msgid "Planner"
+msgstr "Planner"
+
+#: src/Utils.vala:28
+#, fuzzy
+msgid "today"
+msgstr "Dnes"
+
+#: src/Utils.vala:29
+#, fuzzy
+msgid "tomorrow"
+msgstr "Zítra"
+
+#: src/Utils.vala:127 src/Utils.vala:134 src/Widgets/LabelRow.vala:82
+msgid "Home"
+msgstr "Domov"
+
+#: src/Utils.vala:128 src/Utils.vala:138
+msgid "Office"
+msgstr "Kancelář"
+
+#: src/Utils.vala:129 src/Utils.vala:142
+msgid "Errand"
+msgstr "Vyřizování"
+
+#: src/Utils.vala:130 src/Utils.vala:146
+msgid "Important"
+msgstr "Důležité"
+
+#: src/Utils.vala:131 src/Utils.vala:150
+msgid "Pending"
+msgstr "Nevyřízené"
+
+#: src/Utils.vala:194
+msgid "Berry Red"
+msgstr "Bobulovitě červená"
+
+#: src/Utils.vala:195
+msgid "Red"
+msgstr "Červená"
+
+#: src/Utils.vala:196
+msgid "Orange"
+msgstr "Oranžová"
+
+#: src/Utils.vala:197
+msgid "Yellow"
+msgstr "Žlutá"
+
+#: src/Utils.vala:198
+msgid "Olive Green"
+msgstr "Olivově zelená"
+
+#: src/Utils.vala:199
+msgid "Lime Green"
+msgstr "Limetkově zelená"
+
+#: src/Utils.vala:200
+msgid "Green"
+msgstr "Zelená"
+
+#: src/Utils.vala:201
+msgid "Mint Green"
+msgstr "Mátově zelená"
+
+#: src/Utils.vala:202
+msgid "Teal"
+msgstr "Tmavě modrozelená"
+
+#: src/Utils.vala:203
+msgid "Sky Blue"
+msgstr "Oblohově modrá"
+
+#: src/Utils.vala:204
+msgid "Light Blue"
+msgstr "Světle modrá"
+
+#: src/Utils.vala:205
+msgid "Blue"
+msgstr "Modrá"
+
+#: src/Utils.vala:206
+msgid "Grape"
+msgstr "Vínová"
+
+#: src/Utils.vala:207
+msgid "Violet"
+msgstr "Fialová"
+
+#: src/Utils.vala:208
+msgid "Lavander"
+msgstr "Levandulová"
+
+#: src/Utils.vala:209
+msgid "Magenta"
+msgstr "Červenorudá"
+
+#: src/Utils.vala:210
+msgid "Salmon"
+msgstr "Lososová"
+
+#: src/Utils.vala:211
+msgid "Charcoal"
+msgstr "Uhlová"
+
+#: src/Utils.vala:212
+msgid "Grey"
+msgstr "Šedá"
+
+#: src/Utils.vala:213
+msgid "Taupe"
+msgstr "Šedobéžová"
+
+#. vala-lint=line-length
+#: src/Utils.vala:574 src/Widgets/Pane.vala:73 src/Widgets/ItemRow.vala:1422
+#: src/Widgets/DueButton.vala:196 src/Views/Today.vala:59
+#: src/Views/Today.vala:613 src/Dialogs/Preferences/Preferences.vala:233
+#: src/Dialogs/Preferences/Preferences.vala:339 src/Dialogs/QuickFind.vala:76
+msgid "Today"
+msgstr "Dnes"
+
+#: src/Utils.vala:576 src/Widgets/Pane.vala:408 src/Widgets/ItemRow.vala:1425
+#: src/Widgets/DueButton.vala:202 src/Widgets/UpcomingRow.vala:64
+#: src/Views/Today.vala:619
+msgid "Tomorrow"
+msgstr "Zítra"
+
+#: src/Utils.vala:815
+msgid "Quick Add Activated!"
+msgstr "Rychlé přidávání aktivováno!"
+
+#: src/Utils.vala:816
+#, c-format
+msgid "Try %s to activate it. You can change it from the preferences"
+msgstr "Zkuste %s pro jeho aktivaci. Lze upravit v nastavení"
+
+#: src/Utils.vala:855
+msgid "🚀️ Getting Started"
+msgstr "🚀️ Začínáme"
+
+#: src/Utils.vala:856
+msgid ""
+"This project will help you learn the basics of Planner and get started with "
+"a simple task management system to stay organized and on top of everything "
+"you need to do."
+msgstr ""
+"Tento projekt vám pomůže naučit se základy Planneru a začít pracovat s "
+"jednoduchým systémem pro řízení úkolů, abyste zůstal/a organizovaný/á a měl/"
+"a přehled o všem, co je potřeba udělat."
+
+#: src/Utils.vala:861
+msgid "Keeping track of your tasks"
+msgstr "Získávání si přehledu nad vašimi úkoly"
+
+#: src/Utils.vala:862
+msgid ""
+"It turns out, our brains are actually wired to keep us thinking about our "
+"unfinished tasks. Handy when you have one thing you need to work on. Not so "
+"good when you have 30+ tasks vying for your attention at once. That’s why "
+"the first step to organizing your work and life is getting everything out of "
+"your head and onto your to-do list. From there you can begin to organize and "
+"prioritize so you know exactly what to focus on and when."
+msgstr ""
+"Ukazuje se, že naše mozky nám přirozeně neustále připomínají naše "
+"nedokončené úkoly. To se hodí, když má člověk jednu věc, na které potřebuje "
+"pracovat. Když má však přes 30 úkolů, které soupeří o jeho pozornost, tak už "
+"to příliš užitečné není. Proto je prvním krokem k zorganizování vaší práce i "
+"života vypustit vše z hlavy a zanést to do seznamu úkolů. Na jeho základě "
+"můžete začít organizovat a prioritizovat, abyste věděl/a, na co se "
+"soustředit a kdy."
+
+#: src/Utils.vala:867
+msgid "Adding new tasks"
+msgstr "Přidávání nových úkolů"
+
+#: src/Utils.vala:868
+msgid ""
+"- To add a new task to Planner, just click + and press Enter.\n"
+"- When your task is created, click on the task to be able to edit it, add a "
+"note or some other options."
+msgstr ""
+"- Pro přidání nového úkolu do Planneru stačí kliknout na + a stisknout "
+"Enter.\n"
+"- Až vytvoříte úkol, stačí na něj kliknout, abyste jej mohl/a upravit, "
+"přidat poznámku, či využít dalších možností."
+
+#: src/Utils.vala:874
+msgid "Due dates"
+msgstr "Data dokončení"
+
+#: src/Utils.vala:875
+msgid ""
+"- If you know you need to have the task done on a certain day, click on the "
+"calendar icon and select a date.\n"
+"- If you want to delete the due date, repeat the process and select the "
+"\"undate\" option."
+msgstr ""
+"- Pokud víte, že potřebujete dokončit úkol do určitého dne, klikněte na "
+"ikonu kalendáře a zvolte datum.\n"
+"- Pokud chcete smazat datum dokončení, zopakujte stejný proces a zvolte "
+"možnost „odstranit datum“."
+
+#: src/Utils.vala:881
+msgid "How to use projects"
+msgstr "Jak používat projekty"
+
+#: src/Utils.vala:882
+msgid ""
+"- Whether you’re planning a presentation, preparing for an event or creating "
+"a website, create a project so all the important details are saved in one "
+"central place.\n"
+"- In the navigation menu on the left, at the bottom, click on the + symbol.\n"
+"- In the options menu select 'Project' and type out the name of your new "
+"project.\n"
+"- Select a source from the drop-down menu.\n"
+"- (Optional) Select a different project color from the color list.\n"
+"- Click Add to create the project."
+msgstr ""
+"- Ať už plánujete prezentaci, připravujete oslavu nebo vytváříte webovou "
+"stránku, založte projekt, a mějte tak všechny důležité detaily na jednom "
+"místě.\n"
+"- V navigačním menu vlevo dole klikněte na symbol +.\n"
+"- V menu voleb vyberte \"Projekt\" a napište název svého nového projektu.\n"
+"- Vyberte zdroj v rozbalovacím menu.\n"
+"- (Volitelně) Zvolte barvu svého projektu z nabídky barev.\n"
+"- Klikněte na tlačítko Přidat pro vytvoření projektu."
+
+#: src/Utils.vala:892
+msgid "Sections"
+msgstr "Sekce"
+
+#: src/Utils.vala:898
+msgid "Add sections"
+msgstr "Přidat sekce"
+
+#: src/Utils.vala:899
+msgid ""
+"- It’s always easier to take on a big project when you split it into easily "
+"manageable parts using Planner’s sections.\n"
+"- Organize your projects with sections to group your tasks together and get "
+"a better overview of what needs to be done. Add sections to your project, "
+"drag the relevant tasks to the section they belong in, and you’ll find it a "
+"lot easier to make progress (instead of getting overwhelmed by a single long "
+"list).\n"
+"- At the top right of a project, click the + icon.\n"
+"- Type the name of your section and click Add."
+msgstr ""
+"- Vždy je jednodušší vzládnout velký projekt, když si ho rozdělíte na menší "
+"a jednodušší části s použitím sekcí v Planneru.\n"
+"- Uspořádejte si projekty se sekcemi tak, abyste měli všechny úkoly "
+"pohromadě a získejte přehled toho, co je ještě třeba udělat. Přidejte sekce "
+"do vašeho projektu, přetáhněte příslušný úkol do sekce ke které patří a "
+"zjistíte, že je jednodušší dělat pokroky (nebudete zahlceni zdánlivě "
+"nekonečným seznamem).\n"
+"- U projektu vpravo nahoře klikněte na symbol +.\n"
+"- Napište název sekce a klikněte na Přidat."
+
+#: src/Utils.vala:918
+msgid "Create a new task"
+msgstr "Vytvořit nový úkol"
+
+#: src/Utils.vala:919
+msgid "Create a new task at the top of the list (only works inside projects)"
+msgstr "Vytvořit nový úkol na začátku seznamu (funguje jen v projektech)"
+
+#: src/Utils.vala:920
+msgid "Create a new area"
+msgstr "Vytvořit novou oblast"
+
+#: src/Utils.vala:921
+msgid "Create a new project"
+msgstr "Vytvořit nový projekt"
+
+#: src/Utils.vala:922
+msgid "Create a new section"
+msgstr "Vytvořit novou sekci"
+
+#: src/Utils.vala:923
+msgid "Open the Inbox"
+msgstr "Otevřít Příchozí"
+
+#: src/Utils.vala:924
+msgid "Open Today"
+msgstr "Otevřít Dnes"
+
+#: src/Utils.vala:925
+msgid "Open Upcoming"
+msgstr "Otevřít Nadcházející"
+
+#: src/Utils.vala:926
+msgid "Open Search"
+msgstr "Otevřít Vyhledávání"
+
+#: src/Utils.vala:927
+msgid "Manually sync"
+msgstr "Synchronizovat ručně"
+
+#: src/Utils.vala:928
+msgid "Quit"
+msgstr "Ukončit"
+
+#: src/Utils.vala:936
+msgid "The request was incorrect."
+msgstr "Požadavek byl neplatný."
+
+#: src/Utils.vala:937
+msgid ""
+"Authentication is required, and has failed, or has not yet been provided."
+msgstr "Autentizace je povinná a buď selhala, nebo zatím nebyla poskytnuta."
+
+#: src/Utils.vala:938
+msgid "The request was valid, but for something that is forbidden."
+msgstr "Požadavek byl platný, ale týkal se něčeho zakázaného."
+
+#: src/Utils.vala:939
+msgid "The requested resource could not be found."
+msgstr "Požadovaný zdroj nebyl nalezen."
+
+#: src/Utils.vala:940
+msgid "The user has sent too many requests in a given amount of time."
+msgstr "Uživatel odeslal příliš mnoho požadavků v určitém úseku času."
+
+#: src/Utils.vala:941
+msgid "The request failed due to a server error."
+msgstr "Požadavek selhal kvůli chybě na serveru."
+
+#: src/Utils.vala:942
+msgid "The server is currently unable to handle the request."
+msgstr "Server momentálně nemůže požadavek zpracovat."
+
+#. search_row = new Widgets.ActionRow (_("Quick Find"), "system-search-symbolic", "search", _("Your Inbox is the default place to add new tasks so you can get them out of your head quickly, then come back and make a plan to take care of them later. It’s a great way to declutter your mind so you can focus on whatever you’re doing right now."));
+#: src/Services/Database.vala:1035 src/Widgets/Pane.vala:72
+#: src/Widgets/ItemRow.vala:1324 src/Widgets/SectionRow.vala:750
+#: src/Views/Inbox.vala:82 src/Dialogs/Preferences/Preferences.vala:229
+#: src/Dialogs/Preferences/Preferences.vala:336 src/Dialogs/QuickFind.vala:69
+msgid "Inbox"
+msgstr "Příchozí"
+
+#: src/Services/Calendar/Util.vala:274
+msgid "On this computer"
+msgstr "Na tomto počítači"
+
+#: src/Widgets/ActionRow.vala:84 src/Widgets/ProjectRow.vala:150
+msgid "Todoist Project"
+msgstr "Projekt z Todoistu"
+
+#: src/Widgets/ActionRow.vala:274 src/Widgets/ProjectRow.vala:397
+msgid "Unable to move task"
+msgstr ""
+
+#. vala-lint=line-length
+#: src/Widgets/Pane.vala:74 src/Widgets/Pane.vala:410
+#: src/Views/Upcoming.vala:36 src/Dialogs/Preferences/Preferences.vala:236
+#: src/Dialogs/QuickFind.vala:83
+msgid "Upcoming"
+msgstr "Nadcházející"
+
+#: src/Widgets/Pane.vala:82 src/Widgets/New.vala:481
+#, fuzzy
+msgid "Add Project"
+msgstr "Přidat projekt"
+
+#: src/Widgets/Pane.vala:202 src/Dialogs/QuickFind.vala:143
+msgid "Quick Find"
+msgstr "Rychlé vyhledávání"
+
+#: src/Widgets/Pane.vala:216
+msgid "Preferences"
+msgstr "Nastavení"
+
+#: src/Widgets/Pane.vala:238 src/Widgets/Pane.vala:472
+msgid "Sync"
+msgstr "Synchronizovat"
+
+#: src/Widgets/Pane.vala:476
+msgid "Offline mode is on"
+msgstr "Offline režim je zapnutý"
+
+#: src/Widgets/Pane.vala:476
+msgid ""
+"Looks like you'are not connected to the\n"
+"internet. Changes you make in offline\n"
+"mode will be synced when you reconnect"
+msgstr ""
+"Zdá se, že nejste připojeni k\n"
+"internetu. Změny, které provedete v offline\n"
+"režimu budou synchronizovány, až se připojíte"
+
+#: src/Widgets/New.vala:64 src/Views/Inbox.vala:928 src/Views/Project.vala:1310
+#: src/Dialogs/ProjectSettings.vala:49
+msgid "Name:"
+msgstr "Název:"
+
+#: src/Widgets/New.vala:89 src/Dialogs/ProjectSettings.vala:55
+msgid "Description:"
+msgstr "Popis:"
+
+#: src/Widgets/New.vala:107
+msgid "Folder:"
+msgstr "Složka:"
+
+#: src/Widgets/New.vala:122 src/Dialogs/ProjectSettings.vala:98
+msgid "Color:"
+msgstr "Barva:"
+
+#: src/Widgets/New.vala:162 src/Widgets/NewItem.vala:91
+#: src/Widgets/ReminderButton.vala:250 src/Widgets/NewSection.vala:81
+#: src/Views/Inbox.vala:944 src/Views/Project.vala:1326
+msgid "Add"
+msgstr "Přidat"
+
+#: src/Widgets/New.vala:167 src/Widgets/NewItem.vala:96
+#: src/Widgets/SectionRow.vala:166 src/Widgets/AreaRow.vala:148
+#: src/Widgets/ReminderButton.vala:248 src/Widgets/NewSection.vala:85
+#: src/Widgets/NewLabel.vala:77 src/Views/Inbox.vala:949
+#: src/Views/Project.vala:220 src/Views/Project.vala:1331
+msgid "Cancel"
+msgstr "Zrušit"
+
+#: src/Widgets/New.vala:314
+msgid "Local"
+msgstr "Místní"
+
+#: src/Widgets/New.vala:389 src/Widgets/ProjectRow.vala:491
+msgid "No Folder"
+msgstr "Bez složky"
+
+#: src/Widgets/New.vala:462
+msgid "Project"
+msgstr "Projekt"
+
+#: src/Widgets/New.vala:467
+msgid "Start a new project, create a to do list, organize your notes."
+msgstr "Založte nový projekt, vytvořte seznam úkolů, organizujte své poznámky."
+
+#: src/Widgets/New.vala:494
+msgid "Folder"
+msgstr "Složka"
+
+#: src/Widgets/New.vala:499
+msgid "Organize your projects in groups and keep your panel clean."
+msgstr "Organizujte své projekty pomocí skupin a udržujte si čistý panel."
+
+#: src/Widgets/New.vala:512
+#, fuzzy
+msgid "Add Folder"
+msgstr "Složka"
+
+#: src/Widgets/New.vala:518 src/Dialogs/ProjectSettings.vala:157
+#: src/Dialogs/Preferences/Preferences.vala:78
+msgid "Close"
+msgstr "Zavřít"
+
+#: src/Widgets/New.vala:582
+msgid "New folder"
+msgstr "Nová složka"
+
+#: src/Widgets/ProjectRow.vala:123 src/Views/Inbox.vala:129
+#: src/Views/Project.vala:205
+msgid "Project Menu"
+msgstr "Menu projektu"
+
+#: src/Widgets/ProjectRow.vala:146
+msgid "Local Project"
+msgstr "Místní projekt"
+
+#: src/Widgets/ProjectRow.vala:389 src/Widgets/ItemRow.vala:1333
+#: src/Widgets/ItemRow.vala:1353 src/Widgets/ItemRow.vala:1387
+#: src/Widgets/SectionRow.vala:1007 src/Widgets/SectionRow.vala:1064
+#, c-format
+msgid "Task moved to <b>%s</b>"
+msgstr "Úkol přesunut pod <b>%s</b>"
+
+#: src/Widgets/ProjectRow.vala:547 src/Widgets/ItemRow.vala:1420
+#: src/Widgets/AreaRow.vala:651 src/Views/Project.vala:1035
+msgid "Edit"
+msgstr "Upravit"
+
+#: src/Widgets/ProjectRow.vala:548
+msgid "Move"
+msgstr ""
+
+#: src/Widgets/ProjectRow.vala:552 src/Widgets/ItemRow.vala:1441
+#: src/Widgets/SectionRow.vala:816
+msgid "Share"
+msgstr "Sdílet"
+
+#: src/Widgets/ProjectRow.vala:556
+msgid "Send by e-mail"
+msgstr "Poslat e-mailem"
+
+#. var share_text_menu = new Widgets.ImageMenuItem (_("Text"), "text-x-generic-symbolic");
+#: src/Widgets/ProjectRow.vala:557 src/Widgets/ItemRow.vala:1446
+#: src/Widgets/SectionRow.vala:821
+msgid "Markdown"
+msgstr "Markdown"
+
+#. var duplicate_menu = new Widgets.ImageMenuItem (_("Duplicate"), "edit-copy-symbolic");
+#. var archive_menu = new Widgets.ModelButton (_("Archive project"), "planner-archive-symbolic");
+#: src/Widgets/ProjectRow.vala:565 src/Widgets/ProjectRow.vala:592
+#: src/Widgets/ItemRow.vala:1453 src/Widgets/SectionRow.vala:827
+#: src/Widgets/SectionRow.vala:870 src/Widgets/AreaRow.vala:652
+#: src/Widgets/AreaRow.vala:690 src/Widgets/CheckRow.vala:81
+#: src/Views/Project.vala:1038 src/Views/Project.vala:1111
+msgid "Delete"
+msgstr "Odstranit"
+
+#: src/Widgets/ProjectRow.vala:587 src/Views/Project.vala:1106
+msgid "Delete project"
+msgstr "Odstranit projekt"
+
+#: src/Widgets/ProjectRow.vala:588 src/Widgets/SectionRow.vala:866
+#: src/Widgets/AreaRow.vala:678 src/Views/Project.vala:1107
+#, c-format
+msgid "Are you sure you want to delete <b>%s</b>?"
+msgstr "Opravdu chcete odstranit <b>%s</b>?"
+
+#: src/Widgets/NewItem.vala:69 src/Widgets/ItemRow.vala:220
+#: src/Widgets/AreaRow.vala:122 src/Widgets/CheckRow.vala:66
+msgid "Task name"
+msgstr "Název úkolu"
+
+#: src/Widgets/ItemRow.vala:184
+#, fuzzy
+msgid "Hide Details"
+msgstr "Zobrazit podrobnosti"
+
+#: src/Widgets/ItemRow.vala:502
+msgid "Add Checklist"
+msgstr "Přidat kontrolní seznam"
+
+#: src/Widgets/ItemRow.vala:509
+msgid "Delete Task"
+msgstr "Odstranit úkol"
+
+#: src/Widgets/ItemRow.vala:523
+msgid "Task Menu"
+msgstr "Menu úkolu"
+
+#: src/Widgets/ItemRow.vala:690 src/Widgets/ItemRow.vala:1506
+msgid "Task deleted"
+msgstr "Úkol vymazaný"
+
+#: src/Widgets/ItemRow.vala:1012
+#, c-format
+msgid "Completed. Next occurrence: %s"
+msgstr "Hotovo. Další položka: %s"
+
+#: src/Widgets/ItemRow.vala:1025
+#, fuzzy
+msgid "1 task completed"
+msgstr "Úkol hotový"
+
+#: src/Widgets/ItemRow.vala:1366
+msgid "No Section"
+msgstr "Bez sekce"
+
+#: src/Widgets/ItemRow.vala:1419
+msgid "Complete"
+msgstr "Hotové"
+
+#: src/Widgets/ItemRow.vala:1428 src/Widgets/DueButton.vala:208
+msgid "Undated"
+msgstr "Bez data"
+
+#: src/Widgets/ItemRow.vala:1433 src/Widgets/SectionRow.vala:812
+msgid "Move to Project"
+msgstr "Přesunout do projektu"
+
+#: src/Widgets/ItemRow.vala:1437
+msgid "Move to Section"
+msgstr "Přesunout do sekce"
+
+#: src/Widgets/ItemRow.vala:1445
+msgid "Text"
+msgstr "Text"
+
+#: src/Widgets/ItemRow.vala:1452
+msgid "Duplicate"
+msgstr "Duplikovat"
+
+#: src/Widgets/ItemRow.vala:1578 src/Widgets/ItemCompletedRow.vala:41
+msgid "Note"
+msgstr "Poznámka"
+
+#: src/Widgets/ItemCompletedRow.vala:39
+msgid "Content"
+msgstr "Obsah"
+
+#: src/Widgets/ItemCompletedRow.vala:45
+msgid "Due date"
+msgstr "Datum do"
+
+#: src/Widgets/ItemCompletedRow.vala:48
+msgid "Date completed"
+msgstr "Datum dokončení"
+
+#. hidden_button.margin_end = 6;
+#: src/Widgets/SectionRow.vala:85 src/Widgets/SectionRow.vala:936
+msgid "Display Tasks"
+msgstr "Zobrazit úkoly"
+
+#: src/Widgets/SectionRow.vala:97 src/Widgets/SectionRow.vala:941
+msgid "Hiding Tasks"
+msgstr "Skrytí úkolů"
+
+#: src/Widgets/SectionRow.vala:102 src/Widgets/SectionRow.vala:806
+#: src/Widgets/MagicButton.vala:32
+msgid "Add Task"
+msgstr "Přidat úkol"
+
+#: src/Widgets/SectionRow.vala:125 src/Widgets/NewSection.vala:69
+msgid "Section name"
+msgstr "Název sekce"
+
+#: src/Widgets/SectionRow.vala:145 src/Widgets/AreaRow.vala:97
+msgid "Section Menu"
+msgstr "Menu sekce"
+
+#. top_box.pack_end (hidden_revealer, false, true, 0);
+#. top_box.margin_top = 6;
+#: src/Widgets/SectionRow.vala:162 src/Widgets/AreaRow.vala:144
+#: src/Views/Project.vala:216 src/Dialogs/ProjectSettings.vala:159
+msgid "Save"
+msgstr "Uložit"
+
+#: src/Widgets/SectionRow.vala:199 src/Views/Project.vala:248
+msgid "Add a description"
+msgstr "Přidat popis"
+
+#: src/Widgets/SectionRow.vala:208 src/Views/Project.vala:849
+msgid "Description"
+msgstr "Popis"
+
+#: src/Widgets/SectionRow.vala:757 src/Widgets/SectionRow.vala:778
+#, c-format
+msgid "Section moved to <b>%s</b>"
+msgstr "Sekce přesunuta do <b>%s</b>"
+
+#: src/Widgets/SectionRow.vala:809
+msgid "Rename"
+msgstr "Přejmenovat"
+
+#: src/Widgets/SectionRow.vala:810
+msgid "Add Note"
+msgstr "Přidat poznámku"
+
+#: src/Widgets/SectionRow.vala:865
+msgid "Delete section"
+msgstr "Odstranit sekci"
+
+#: src/Widgets/SectionRow.vala:883
+msgid "Section deleted"
+msgstr "Sekce odstraněna"
+
+#: src/Widgets/DueButton.vala:54 src/Widgets/DueButton.vala:63
+#: src/Widgets/DueButton.vala:134
+msgid "Schedule"
+msgstr ""
+
+#: src/Widgets/DueButton.vala:217
+msgid "Repeat"
+msgstr "Opakovat"
+
+#: src/Widgets/DueButton.vala:240
+msgid "Every day"
+msgstr "Každý den"
+
+#: src/Widgets/DueButton.vala:246
+msgid "Every week"
+msgstr "Každý týden"
+
+#: src/Widgets/DueButton.vala:252
+msgid "Every month"
+msgstr "Každý měsíc"
+
+#: src/Widgets/DueButton.vala:258
+msgid "Every year"
+msgstr "Každý rok"
+
+#: src/Widgets/LabelButton.vala:40 src/Dialogs/Preferences/Preferences.vala:116
+#: src/Dialogs/Preferences/Preferences.vala:767 src/Dialogs/QuickFind.vala:279
+#: src/Dialogs/QuickFind.vala:655
+msgid "Labels"
+msgstr "Štítky"
+
+#: src/Widgets/LabelButton.vala:50
+msgid "labels"
+msgstr "štítky"
+
+#: src/Widgets/LabelButton.vala:90 src/Widgets/LabelButton.vala:243
+#, fuzzy
+msgid "Using Labels"
+msgstr "Štítky"
+
+#: src/Widgets/LabelButton.vala:91 src/Widgets/LabelButton.vala:244
+msgid ""
+"Categorize your to-dos with labels, then use them to filter your lists and "
+"get focused."
+msgstr ""
+
+#: src/Widgets/LabelButton.vala:123
+msgid "Type a label"
+msgstr "Napište štítek"
+
+#: src/Widgets/LabelButton.vala:133 src/Widgets/LabelButton.vala:223
+#: src/Widgets/LabelButton.vala:241
+msgid "Edit labels"
+msgstr "Upravit štítky"
+
+#: src/Widgets/LabelButton.vala:233
+#, fuzzy
+msgid "Add label"
+msgstr "Přidat štítek"
+
+#: src/Widgets/LabelButton.vala:236
+msgid "Label not found"
+msgstr ""
+
+#: src/Widgets/LabelButton.vala:237
+#, fuzzy, c-format
+msgid "Create '%s'"
+msgstr "Vytvořit"
+
+#: src/Widgets/Toast.vala:68
+msgid "Undo"
+msgstr "Vrátit zpět"
+
+#: src/Widgets/AreaRow.vala:648
+msgid "Add project"
+msgstr "Přidat projekt"
+
+#: src/Widgets/AreaRow.vala:677
+msgid "Delete folder"
+msgstr "Odstranit složku"
+
+#: src/Widgets/AreaRow.vala:685
+msgid "Delete projects"
+msgstr "Odstranit projekty"
+
+#: src/Widgets/NewCheck.vala:73
+msgid "Subtask name"
+msgstr "Název podúkolu"
+
+#: src/Widgets/LabelItem.vala:43
+msgid "Remove"
+msgstr ""
+
+#: src/Widgets/UpcomingRow.vala:76
+msgid "Add task"
+msgstr "Přidat úkol"
+
+#: src/Widgets/ReminderButton.vala:43
+msgid "Reminders"
+msgstr "Připomínky"
+
+#: src/Widgets/ReminderButton.vala:179
+msgid "Add reminder"
+msgstr "Přidat připomínku"
+
+#: src/Widgets/ReminderButton.vala:221
+msgid "Never forget a task again! Have Planner send you a reminder."
+msgstr ""
+
+#: src/Widgets/ReminderButton.vala:241
+msgid "Time:"
+msgstr "Čas:"
+
+#: src/Widgets/NewLabel.vala:42
+msgid "Add Label"
+msgstr "Přidat štítek"
+
+#: src/Widgets/Calendar/CalendarHeader.vala:34
+msgid "%OB, %Y"
+msgstr "%OB, %Y"
+
+#: src/Widgets/Calendar/CalendarHeader.vala:43
+msgid "%OB %Y"
+msgstr "%OB %Y"
+
+#: src/Widgets/Calendar/CalendarWeek.vala:27
+msgid "Mon"
+msgstr "Po"
+
+#: src/Widgets/Calendar/CalendarWeek.vala:30
+msgid "Tue"
+msgstr "Út"
+
+#: src/Widgets/Calendar/CalendarWeek.vala:33
+msgid "Wed"
+msgstr "St"
+
+#: src/Widgets/Calendar/CalendarWeek.vala:36
+msgid "Thu"
+msgstr "Čt"
+
+#: src/Widgets/Calendar/CalendarWeek.vala:39
+msgid "Fri"
+msgstr "Pá"
+
+#: src/Widgets/Calendar/CalendarWeek.vala:42
+msgid "Sat"
+msgstr "So"
+
+#: src/Widgets/Calendar/CalendarWeek.vala:45
+msgid "Sun"
+msgstr "Ne"
+
+#: src/Views/Welcome.vala:26
+msgid "Never worry about forgetting things again"
+msgstr "Už se nemusíte bát, že na něco zapomenete"
+
+#: src/Views/Welcome.vala:28
+msgid "Startup"
+msgstr "Start"
+
+#: src/Views/Welcome.vala:28
+msgid "Start working locally."
+msgstr "Začněte pracovat místně."
+
+#: src/Views/Welcome.vala:29 src/Dialogs/Preferences/Preferences.vala:890
+msgid "Todoist"
+msgstr "Todoist"
+
+#: src/Views/Welcome.vala:29
+msgid "Synchronize with your Todoist account and start working."
+msgstr "Synchronizujte se svým Todoist účtem a začněte pracovat."
+
+#: src/Views/Inbox.vala:93 src/Views/Project.vala:161
+#: src/Views/Project.vala:169
+msgid "Add Section"
+msgstr "Přidat sekci"
+
+#: src/Views/Inbox.vala:101 src/Views/Project.vala:177
+msgid "Invite person"
+msgstr "Pozvat kamaráda"
+
+#: src/Views/Inbox.vala:110 src/Views/Project.vala:186
+msgid "Project comments"
+msgstr "Komentáře k Projektům"
+
+#: src/Views/Inbox.vala:118 src/Views/Project.vala:194
+msgid "Search task"
+msgstr "Vyhledat úkol"
+
+#: src/Views/Inbox.vala:285
+msgid "All clear"
+msgstr "Vše vyčistit"
+
+#: src/Views/Inbox.vala:286
+msgid "Looks like everything's organized in the right place."
+msgstr "Zdá se, že vše je organizováno a na správném místě."
+
+#: src/Views/Inbox.vala:801 src/Views/Project.vala:1047
+msgid "Show Completed"
+msgstr "Zobrazit hotové"
+
+#: src/Views/Today.vala:93
+msgid "Overdue"
+msgstr ""
+
+#: src/Views/Today.vala:109
+msgid "Reschedule"
+msgstr ""
+
+#: src/Views/Today.vala:138
+msgid "What tasks are on your mind?"
+msgstr "Jaké úkoly máte na mysli?"
+
+#: src/Views/Today.vala:139
+msgid "Tap + to add a task for today."
+msgstr "Klikněte na +, abyste přidal/a úkol na dnešek."
+
+#: src/Views/Project.vala:143 src/Views/Project.vala:826
+#, fuzzy, c-format
+msgid "Progress: %s"
+msgstr "Postup:"
+
+#: src/Views/Project.vala:392
+msgid "What will you accomplish?"
+msgstr "Čeho chcete docílit?"
+
+#: src/Views/Project.vala:393
+msgid "Tap + to add a task to this project."
+msgstr "Klikněte na +, abyste přidal/a úkol do tohoto projektu."
+
+#: src/Views/Project.vala:1250
+#, fuzzy
+msgid "Your Productivity"
+msgstr "Produktivita"
+
+#: src/Views/Project.vala:1255
+msgid "Progress:"
+msgstr "Postup:"
+
+#: src/Views/Project.vala:1266
+#, fuzzy
+msgid "Duedate:"
+msgstr "Do dne:"
+
+#: src/Dialogs/TodoistOAuth.vala:45 src/Dialogs/TodoistOAuth.vala:122
+msgid "Loading…"
+msgstr "Načítá se…"
+
+#. Alert
+#: src/Dialogs/TodoistOAuth.vala:69 src/Dialogs/TodoistOAuth.vala:136
+msgid "Network Is Not Available"
+msgstr "Síť není k dispozici"
+
+#: src/Dialogs/TodoistOAuth.vala:70
+msgid "Connect to the Internet to connect with Todoist"
+msgstr "Připojte se k Internetu pro propojení s Todoistem"
+
+#: src/Dialogs/TodoistOAuth.vala:103
+msgid "Synchronizing… Wait a moment please."
+msgstr "Synchronizuje se… Počkejte chvíli, prosím."
+
+#: src/Dialogs/TodoistOAuth.vala:114
+msgid "Please enter your credentials…"
+msgstr "Zadejte prosím přihlašovací údaje…"
+
+#: src/Dialogs/ProjectSettings.vala:74
+msgid "Deadline:"
+msgstr ""
+
+#: src/Dialogs/ProjectSettings.vala:129
+msgid "Uploading changes…"
+msgstr "Nahrávají se změny…"
+
+#. General
+#: src/Dialogs/Preferences/Preferences.vala:89
+#: src/Dialogs/Preferences/Preferences.vala:96
+#: src/Dialogs/Preferences/Preferences.vala:627
+msgid "General"
+msgstr "Obecné"
+
+#: src/Dialogs/Preferences/Preferences.vala:92
+#: src/Dialogs/Preferences/Preferences.vala:215
+msgid "Homepage"
+msgstr "Domovská stránka"
+
+#: src/Dialogs/Preferences/Preferences.vala:93
+#: src/Dialogs/Preferences/Preferences.vala:319
+msgid "Badge Count"
+msgstr "Počítadlo v odznaku"
+
+#: src/Dialogs/Preferences/Preferences.vala:94
+#: src/Dialogs/Preferences/Preferences.vala:392
+msgid "Theme"
+msgstr "Vzhled"
+
+#: src/Dialogs/Preferences/Preferences.vala:95
+#: src/Dialogs/Preferences/Preferences.vala:463
+msgid "Quick Add"
+msgstr "Rychlé přidání"
+
+#. Addons
+#: src/Dialogs/Preferences/Preferences.vala:111
+msgid "Add-ons"
+msgstr "Přídavky"
+
+#: src/Dialogs/Preferences/Preferences.vala:115
+#: src/Dialogs/Preferences/Preferences.vala:1029
+msgid "Calendar Events"
+msgstr "Události v kalendáři"
+
+#: src/Dialogs/Preferences/Preferences.vala:117
+#: src/Dialogs/Preferences/Preferences.vala:476
+msgid "Keyboard Shortcuts"
+msgstr "Klávesové zkratky"
+
+#. Others
+#: src/Dialogs/Preferences/Preferences.vala:132
+#: src/Dialogs/Preferences/Preferences.vala:1201
+msgid "About"
+msgstr "O nás"
+
+#: src/Dialogs/Preferences/Preferences.vala:133
+#: src/Dialogs/Preferences/Preferences.vala:1107
+msgid "Support & Credits"
+msgstr "Podpora a zásluhy"
+
+#: src/Dialogs/Preferences/Preferences.vala:218
+msgid ""
+"When you open up Planner, make sure you see the tasks that are most "
+"important. The default homepage is your <b>Inbox</b> view, but you can "
+"change it to whatever you'd like."
+msgstr ""
+"Když otevřete Planner, ujistěte se, že úkoly, které vidíte, jsou pro vás "
+"nejdůležitější. Pohled <b>Příchozí</b> je vaši výchozí domovskou stránkou, "
+"ale tu můžete změnit na cokoliv chcete."
+
+#: src/Dialogs/Preferences/Preferences.vala:250 src/Dialogs/QuickFind.vala:292
+#: src/Dialogs/QuickFind.vala:545
+msgid "Projects"
+msgstr "Projekty"
+
+#: src/Dialogs/Preferences/Preferences.vala:322
+msgid ""
+"Choose which items should be counted for the badge on the application icon."
+msgstr ""
+"Vyberte, jaké položky by se měly započítávat do odznaku na ikoně aplikace."
+
+#: src/Dialogs/Preferences/Preferences.vala:332
+msgid "None"
+msgstr "Žádné"
+
+#: src/Dialogs/Preferences/Preferences.vala:342
+msgid "Today + Inbox"
+msgstr "Dnes + Příchozí"
+
+#: src/Dialogs/Preferences/Preferences.vala:395
+msgid ""
+"Personalize the look and feel of your Planner by choosing the theme that "
+"best suits you."
+msgstr ""
+"Přizpůsobte si svůj Planner vybráním vzhledu, který vám vyhovuje nejvíce."
+
+#: src/Dialogs/Preferences/Preferences.vala:405
+msgid "Light"
+msgstr "Světlý"
+
+#: src/Dialogs/Preferences/Preferences.vala:409
+msgid "Night"
+msgstr "Tmavý"
+
+#: src/Dialogs/Preferences/Preferences.vala:412
+#, fuzzy
+msgid "Dark Blue"
+msgstr "Oblohově modrá"
+
+#: src/Dialogs/Preferences/Preferences.vala:415
+msgid "Arc Dark"
+msgstr ""
+
+#: src/Dialogs/Preferences/Preferences.vala:466
+#, fuzzy
+msgid ""
+"Don't worry about which app you're using. You can use a keyboard shortcut to "
+"open the Quick Add window, where you can enter a pending task and quickly "
+"return to work. You can change the keyboard shortcut whenever you want."
+msgstr ""
+"Nezáleží na tom, jakou aplikaci zrovna používáte. Můžete použít klávesovou "
+"zkratku, abyste otevřel/a okno Rychlého přidání, v němž můžete zadat "
+"plánovanou úlohu a rychle se vrátit k práci."
+
+#: src/Dialogs/Preferences/Preferences.vala:488
+#: src/Dialogs/Preferences/Preferences.vala:569
+#: src/Dialogs/Preferences/Preferences.vala:577
+msgid "Change"
+msgstr "Změnit"
+
+#: src/Dialogs/Preferences/Preferences.vala:514
+#, fuzzy
+msgid "Change Keyboard Shortcut"
+msgstr "Klávesové zkratky"
+
+#: src/Dialogs/Preferences/Preferences.vala:523
+msgid "Save Last Selected Project"
+msgstr "Uložit posledně vybraný projekt"
+
+#: src/Dialogs/Preferences/Preferences.vala:567
+#: src/Dialogs/Preferences/Preferences.vala:575
+msgid "Press keys…"
+msgstr "Stiskněte klávesy…"
+
+#: src/Dialogs/Preferences/Preferences.vala:630
+msgid "DE Integration"
+msgstr "Integrace s desktopovým prostředím"
+
+#: src/Dialogs/Preferences/Preferences.vala:634
+msgid "Run in background"
+msgstr "Nechat běžet na pozadí"
+
+#: src/Dialogs/Preferences/Preferences.vala:638
+msgid ""
+"Enable this setting to keep Planner running in the background when it "
+"closes. This will allow Planner to continue updating and sending reminder "
+"notifications."
+msgstr ""
+"Zapněte toto nastavení, aby Planner zůstal běžet na pozadí, když se zavře. "
+"Toto umožní Planneru se nadále aktualizovat a posílat notifikace s "
+"připomínkami."
+
+#: src/Dialogs/Preferences/Preferences.vala:646
+msgid "Run on startup"
+msgstr "Spustit při zapnutí počítače"
+
+#: src/Dialogs/Preferences/Preferences.vala:650
+msgid "Enable this setting to make Planner startup with the system."
+msgstr "Zapněte toto nastavení, aby se Planner spouštěl spolu se systémem."
+
+#: src/Dialogs/Preferences/Preferences.vala:667
+msgid "Button layout"
+msgstr "Rozložení tlačítek"
+
+#: src/Dialogs/Preferences/Preferences.vala:676
+msgid "Help"
+msgstr "Nápověda"
+
+#: src/Dialogs/Preferences/Preferences.vala:680
+msgid "Create tutorial project"
+msgstr "Vytvořit cvičný projekt"
+
+#: src/Dialogs/Preferences/Preferences.vala:680
+msgid "Create"
+msgstr "Vytvořit"
+
+#: src/Dialogs/Preferences/Preferences.vala:682
+msgid "Danger zone"
+msgstr "Nebezpečná zóna"
+
+#: src/Dialogs/Preferences/Preferences.vala:687
+#: src/Dialogs/Preferences/Preferences.vala:749
+msgid "Reset all"
+msgstr "Resetovat vše"
+
+#: src/Dialogs/Preferences/Preferences.vala:687
+msgid "Reset"
+msgstr "Resetovat"
+
+#: src/Dialogs/Preferences/Preferences.vala:735
+msgid "Your tutorial project was created"
+msgstr "Váš cvičný projekt byl vytvořen"
+
+#: src/Dialogs/Preferences/Preferences.vala:744
+msgid "Are you sure you want to reset all?"
+msgstr "Opravdu chcete resetovat vše?"
+
+#: src/Dialogs/Preferences/Preferences.vala:745
+msgid ""
+"It process removes all stored information without the possibility of undoing "
+"it."
+msgstr "Toto odstraní veškeré uložené informace bez možnosti je vrátit."
+
+#: src/Dialogs/Preferences/Preferences.vala:770
+msgid ""
+"Save time by batching similar tasks together using labels. You’ll be able to "
+"pull up a list of all tasks with any given label in a matter of seconds."
+msgstr ""
+"Ušetřete čas seskupením podobných úkolů pomocí štítků. Ve vteřině budete "
+"moci zobrazit seznam všech úkolů s daným štítkem."
+
+#: src/Dialogs/Preferences/Preferences.vala:914
+#, c-format
+msgid "Last successful sync: %s"
+msgstr "Poslední úspěšná synchronizace: %s"
+
+#: src/Dialogs/Preferences/Preferences.vala:923
+msgid "Sync server"
+msgstr "Synchronizační server"
+
+#: src/Dialogs/Preferences/Preferences.vala:928
+msgid ""
+"Activate this setting so that Planner automatically synchronizes with your "
+"Todoist account every 15 minutes."
+msgstr ""
+"Zapněte toto nastavení, aby se Planner automaticky synchronizoval s vaším "
+"Todoist účtem každých 15 minut."
+
+#: src/Dialogs/Preferences/Preferences.vala:940
+#: src/Dialogs/Preferences/Preferences.vala:995
+msgid "Log out"
+msgstr "Odhlásit se"
+
+#: src/Dialogs/Preferences/Preferences.vala:990
+msgid "Are you sure you want to log out?"
+msgstr "Opravdu se chcete odhlásit?"
+
+#: src/Dialogs/Preferences/Preferences.vala:991
+msgid "This process will close your Todoist session on this device."
+msgstr "Tento proces uzavře vaši Todoist relaci na tomto zařízení."
+
+#: src/Dialogs/Preferences/Preferences.vala:1032
+msgid ""
+"You can connect your <b>Calendar</b> app to Planner to see your events and "
+"to-dos together in one place. You’ll see events from both personal and "
+"shared calendars in <b>Today</b> and <b>Upcoming</b>. This is useful when "
+"you’re managing your day, and as you plan the week ahead."
+msgstr ""
+"K Planneru můžete napojit svoji aplikaci <b>kalendáře</b>, abyste viděl/a "
+"své události i úkoly na jednom místě. Uvidíte události jak z osobních, tak i "
+"ze sdílených kalendářů v panelech <b>Dnes</b> a <b>Nadcházející</b>. Je to "
+"užitečné, když spravujete svůj den a když předem plánujete svůj týden."
+
+#: src/Dialogs/Preferences/Preferences.vala:1043
+msgid "Enabled"
+msgstr "Zapnuto"
+
+#: src/Dialogs/Preferences/Preferences.vala:1110
+msgid ""
+"Planner is being developed with ❤️ and passion for Open Source. However, if "
+"you like Planner and want to support its development, consider donating to "
+"via:"
+msgstr ""
+"Planner je vyvíjen s ❤️ a zápalem pro open source. Pokud se vám ale líbí "
+"Planner a chcete podpořit jeho vývoj, zvažte finanční dar pomocí:"
+
+#: src/Dialogs/Preferences/Preferences.vala:1136
+msgid ""
+"Thanks to them who made a donation via Patreon or PayPal. (If you want to "
+"appear here visit our Patreon account 😉️)"
+msgstr ""
+"Děkujeme všem, kteří učinili dar pomocí Patreonu nebo PayPalu. (Pokud tu "
+"chcete mít jméno, navštivte náš účet na Patreonu 😉️)"
+
+#: src/Dialogs/Preferences/Preferences.vala:1215
+msgid "Website"
+msgstr "Webová stránka"
+
+#: src/Dialogs/Preferences/Preferences.vala:1216
+msgid "Follow"
+msgstr "Sledovat"
+
+#: src/Dialogs/Preferences/Preferences.vala:1217
+msgid "Report a Problem"
+msgstr "Nahlásit problém"
+
+#: src/Dialogs/Preferences/Preferences.vala:1218
+msgid "Suggest Translations"
+msgstr "Navrhnout překlady"
+
+#: src/Dialogs/Preferences/Preferences.vala:1337
+msgid "Disabled"
+msgstr "Vypnuto"
+
+#: src/Dialogs/Preferences/TopBox.vala:43
+msgid "Back"
+msgstr "Zpět"
+
+#: src/Dialogs/QuickFind.vala:90
+#, fuzzy
+msgid "Completed"
+msgstr "Hotové"
+
+#: src/Dialogs/QuickFind.vala:99
+msgid "Priority 1"
+msgstr ""
+
+#: src/Dialogs/QuickFind.vala:107
+msgid "Priority 2"
+msgstr ""
+
+#: src/Dialogs/QuickFind.vala:115
+msgid "Priority 3"
+msgstr ""
+
+#: src/Dialogs/QuickFind.vala:123
+msgid "Priority 4"
+msgstr ""
+
+#: src/Dialogs/QuickFind.vala:128
+msgid "Search"
+msgstr "Hledat"
+
+#: src/Dialogs/QuickFind.vala:156
+#, fuzzy
+msgid "Quickly switch projects and views, find tasks, search by labels."
+msgstr ""
+"Rychle přepněte mezi projekty a pohledy, najděte úkoly, vyhledejte dle "
+"štítků, ..."
+
+#: src/Dialogs/QuickFind.vala:184
+msgid "UP"
+msgstr ""
+
+#: src/Dialogs/QuickFind.vala:189
+msgid "DOWN"
+msgstr ""
+
+#: src/Dialogs/QuickFind.vala:194
+msgid "ENTER"
+msgstr ""
+
+#: src/Dialogs/QuickFind.vala:199
+msgid "ESC"
+msgstr ""
+
+#: src/Dialogs/QuickFind.vala:209
+msgid "Use"
+msgstr ""
+
+#: src/Dialogs/QuickFind.vala:212
+msgid "to navigate and"
+msgstr ""
+
+#: src/Dialogs/QuickFind.vala:214
+msgid "to select,"
+msgstr ""
+
+#: src/Dialogs/QuickFind.vala:216
+msgid "to close."
+msgstr ""
+
+#: src/Dialogs/QuickFind.vala:492
+msgid "Enter"
+msgstr ""
+
+#: src/Dialogs/QuickFind.vala:506
+msgid "Tasks"
+msgstr "Úkoly"
+
+#: src/Dialogs/QuickFind.vala:602
+msgid "Views"
+msgstr "Pohledy"
+
+#: src/Dialogs/QuickFind.vala:700
+msgid "Priorities"
+msgstr ""
+
+#: src/Objects/Project.vala:104
+msgid "The Project was copied to the Clipboard."
+msgstr "Projekt byl zkopírován do schránky."
+
+#: src/Objects/Item.vala:125 src/Objects/Item.vala:134
+#, fuzzy
+msgid "Task duplicate"
+msgstr "Duplikovat"
+
+#: src/Objects/Item.vala:214 src/Objects/Item.vala:231
+msgid "The Task was copied to the Clipboard."
+msgstr "Úkol byl zkopírován do schránky."
+
+#: src/Objects/Section.vala:98
+msgid "The Section was copied to the Clipboard."
+msgstr "Sekce byla zkopírována do schránky."
+
+#, fuzzy
+#~ msgid "Duplicate task"
+#~ msgstr "Duplikovat"
+
+#~ msgid ""
+#~ "Your Inbox is the default place to add new tasks so you can get them out "
+#~ "of your head quickly, then come back and make a plan to take care of them "
+#~ "later. It’s a great way to declutter your mind so you can focus on "
+#~ "whatever you’re doing right now."
+#~ msgstr ""
+#~ "Panel Příchozí je výchozím místem, kam přidávat nové úkoly, abyste je "
+#~ "mohl/a pustit z hlavy, pak se k nim vrátit a naplánovat, jak s nimi "
+#~ "později naložit. Je to skvělý způsob, jak si utřídit myšlenky, abyste se "
+#~ "mohl/a soustředit na cokoliv, na čem právě pracujete."
+
+#~ msgid ""
+#~ "The Today view lets you see all the tasks due today across all your "
+#~ "projects. Check in here every morning to make a realistic plan to tackle "
+#~ "your day."
+#~ msgstr ""
+#~ "Pohled Dnes vám umožňuje vidět všechny úkoly do dneška napříč projekty. "
+#~ "Nahlédněte sem každé ráno, abyste si vytvořil/a realistický plán, jak si "
+#~ "strukturovat den."
+
+#~ msgid ""
+#~ "Plan your week ahead with the Upcoming view. It shows everything on your "
+#~ "agenda for the coming days: scheduled to-dos and calendar events."
+#~ msgstr ""
+#~ "Naplánujte si dopředu svůj týden pomocí pohledu Nadcházející. Zobrazuje "
+#~ "vše, co plánujete v příštích dnech: naplánované úkoly i události z "
+#~ "kalendáře."
+
+#~ msgid "New area"
+#~ msgstr "Nová oblast"
+
+#~ msgid "Display Projects"
+#~ msgstr "Zobrazit projekty"
+
+#~ msgid "Hiding Projects"
+#~ msgstr "Skrytí projektů"
+
+#, fuzzy
+#~ msgid "Folder Menu"
+#~ msgstr "Složka"
+
+#~ msgid "Due:"
+#~ msgstr "Do:"
+
+#~ msgid ""
+#~ "All the shortcuts to save you time! Some can be used anywhere in the app, "
+#~ "while others only work when adding or editing tasks."
+#~ msgstr ""
+#~ "Všechny zkratky vám šetří čas! Některé lze použít kdekoliv v aplikaci, "
+#~ "zatímco jiné fungují jen při přidávání či upravování úkolů."
+
+#~ msgid "Add List"
+#~ msgstr "Přidat seznam"
+
+#~ msgid "Due Date"
+#~ msgstr "Datum do"
+
+#~ msgid "Move to Folder"
+#~ msgstr "Přesunout do složky"
+
+#~ msgid "Project's progress: %s"
+#~ msgstr "Postup v projektu: %s"
+
+#~ msgid "Hiding"
+#~ msgstr "Skrytí"
+
+#~ msgid "Inbox comments"
+#~ msgstr "Komentáře k Příchozím"
+
+#~ msgid "Inbox Menu"
+#~ msgstr "Menu Příchozích"
+
+#~ msgid "task"
+#~ msgstr "úkol"
+
+#~ msgid "tasks"
+#~ msgstr "úkolů"
+
+#~ msgid "Area:"
+#~ msgstr "Oblast:"
+
+#~ msgid "No Area"
+#~ msgstr "Bez oblasti"
+
+#~ msgid "Area"
+#~ msgstr "Oblast"
+
+#~ msgid "Delete area"
+#~ msgstr "Odstranit oblast"

@@ -1,0 +1,1368 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the com.github.alainm23.planner package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: com.github.alainm23.planner\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-08 13:24-0500\n"
+"PO-Revision-Date: 2020-07-04 22:41+0000\n"
+"Last-Translator: Milo Ivir <mail@milotype.de>\n"
+"Language-Team: Croatian <https://hosted.weblate.org/projects/planner/"
+"translations/hr/>\n"
+"Language: hr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.2-dev\n"
+
+#: src/MainWindow.vala:50
+msgid "Planner"
+msgstr "Planer"
+
+#: src/Utils.vala:28
+msgid "today"
+msgstr "danas"
+
+#: src/Utils.vala:29
+msgid "tomorrow"
+msgstr "sutra"
+
+#: src/Utils.vala:127 src/Utils.vala:134 src/Widgets/LabelRow.vala:82
+msgid "Home"
+msgstr "Doma"
+
+#: src/Utils.vala:128 src/Utils.vala:138
+msgid "Office"
+msgstr "Ured"
+
+#: src/Utils.vala:129 src/Utils.vala:142
+msgid "Errand"
+msgstr "Zadatak"
+
+#: src/Utils.vala:130 src/Utils.vala:146
+msgid "Important"
+msgstr "Važno"
+
+#: src/Utils.vala:131 src/Utils.vala:150
+msgid "Pending"
+msgstr "Na čekanju"
+
+#: src/Utils.vala:194
+msgid "Berry Red"
+msgstr "Crvena bobica"
+
+#: src/Utils.vala:195
+msgid "Red"
+msgstr "Crvena"
+
+#: src/Utils.vala:196
+msgid "Orange"
+msgstr "Narančasta"
+
+#: src/Utils.vala:197
+msgid "Yellow"
+msgstr "Žuta"
+
+#: src/Utils.vala:198
+msgid "Olive Green"
+msgstr "Maslinasto zelena"
+
+#: src/Utils.vala:199
+msgid "Lime Green"
+msgstr "Limeta zelena"
+
+#: src/Utils.vala:200
+msgid "Green"
+msgstr "Zelena"
+
+#: src/Utils.vala:201
+msgid "Mint Green"
+msgstr "Zelena metvica"
+
+#: src/Utils.vala:202
+msgid "Teal"
+msgstr "Modro zelena"
+
+#: src/Utils.vala:203
+msgid "Sky Blue"
+msgstr "Nebesko plava"
+
+#: src/Utils.vala:204
+msgid "Light Blue"
+msgstr "Svjetloplava"
+
+#: src/Utils.vala:205
+msgid "Blue"
+msgstr "Plava"
+
+#: src/Utils.vala:206
+msgid "Grape"
+msgstr "Grožđe"
+
+#: src/Utils.vala:207
+msgid "Violet"
+msgstr "Ljubičasta"
+
+#: src/Utils.vala:208
+msgid "Lavander"
+msgstr "Lavanda"
+
+#: src/Utils.vala:209
+msgid "Magenta"
+msgstr "Magenta"
+
+#: src/Utils.vala:210
+msgid "Salmon"
+msgstr "Losos"
+
+#: src/Utils.vala:211
+msgid "Charcoal"
+msgstr "Ugljen"
+
+#: src/Utils.vala:212
+msgid "Grey"
+msgstr "Siva"
+
+#: src/Utils.vala:213
+msgid "Taupe"
+msgstr "Krem"
+
+#. vala-lint=line-length
+#: src/Utils.vala:574 src/Widgets/Pane.vala:73 src/Widgets/ItemRow.vala:1422
+#: src/Widgets/DueButton.vala:196 src/Views/Today.vala:59
+#: src/Views/Today.vala:613 src/Dialogs/Preferences/Preferences.vala:233
+#: src/Dialogs/Preferences/Preferences.vala:339 src/Dialogs/QuickFind.vala:76
+msgid "Today"
+msgstr "Danas"
+
+#: src/Utils.vala:576 src/Widgets/Pane.vala:408 src/Widgets/ItemRow.vala:1425
+#: src/Widgets/DueButton.vala:202 src/Widgets/UpcomingRow.vala:64
+#: src/Views/Today.vala:619
+msgid "Tomorrow"
+msgstr "Sutra"
+
+#: src/Utils.vala:815
+msgid "Quick Add Activated!"
+msgstr "Brzo dodavanje je aktivirano!"
+
+#: src/Utils.vala:816
+#, c-format
+msgid "Try %s to activate it. You can change it from the preferences"
+msgstr "Za aktiviranje, pokušaj %s. Možeš promijeniti u postavkama"
+
+#: src/Utils.vala:855
+msgid "🚀️ Getting Started"
+msgstr "🚀️ Kako započeti"
+
+#: src/Utils.vala:856
+msgid ""
+"This project will help you learn the basics of Planner and get started with "
+"a simple task management system to stay organized and on top of everything "
+"you need to do."
+msgstr ""
+"Ovaj će ti projekt pomoći naučiti osnove Planera i raditi s jednostavnim "
+"sustavom za upravljanje zadacima, koji omogućuje dobru organizaciju i "
+"pregled nad tvojim zadacima."
+
+#: src/Utils.vala:861
+msgid "Keeping track of your tasks"
+msgstr "Prati svoje zadatke"
+
+#: src/Utils.vala:862
+msgid ""
+"It turns out, our brains are actually wired to keep us thinking about our "
+"unfinished tasks. Handy when you have one thing you need to work on. Not so "
+"good when you have 30+ tasks vying for your attention at once. That’s why "
+"the first step to organizing your work and life is getting everything out of "
+"your head and onto your to-do list. From there you can begin to organize and "
+"prioritize so you know exactly what to focus on and when."
+msgstr ""
+"Ispada da nas naši mozgovi stalno podsjećaju o našim nedovršenim zadacima. "
+"To je u redu, kad moraš obaviti jednu stvar. Nije tako dobro, kad moraš "
+"obaviti više od 30 zadataka odjednom. Zato je prvi korak u organiziranju "
+"posla i života izrada popisa zadataka. U drugom koraku organiziraj i odredi "
+"prioritete, kako bi točno znalo/la na što se moraš usredotočiti i kada."
+
+#: src/Utils.vala:867
+msgid "Adding new tasks"
+msgstr "Dodavanje novih zadataka"
+
+#: src/Utils.vala:868
+msgid ""
+"- To add a new task to Planner, just click + and press Enter.\n"
+"- When your task is created, click on the task to be able to edit it, add a "
+"note or some other options."
+msgstr ""
+"- Za dodavanje novog zadatka u Planeru, jednostavno pritisni + i Enter.\n"
+"- Kad se zadatak stvori, pritisni zadatak i upiši podatke, dodaj bilješku "
+"ili neke druge opcije."
+
+#: src/Utils.vala:874
+msgid "Due dates"
+msgstr "Datumi rokova"
+
+#: src/Utils.vala:875
+msgid ""
+"- If you know you need to have the task done on a certain day, click on the "
+"calendar icon and select a date.\n"
+"- If you want to delete the due date, repeat the process and select the "
+"\"undate\" option."
+msgstr ""
+"- Ako znaš da zadatak mora biti obavljen na određeni dan, pritisni ikonu "
+"kalendara i odaberi datum.\n"
+"- Ako želiš izbrisati rok, ponovi postupak i odaberi opciju „nedatirano”."
+
+#: src/Utils.vala:881
+msgid "How to use projects"
+msgstr "Kako koristiti projekte"
+
+#: src/Utils.vala:882
+msgid ""
+"- Whether you’re planning a presentation, preparing for an event or creating "
+"a website, create a project so all the important details are saved in one "
+"central place.\n"
+"- In the navigation menu on the left, at the bottom, click on the + symbol.\n"
+"- In the options menu select 'Project' and type out the name of your new "
+"project.\n"
+"- Select a source from the drop-down menu.\n"
+"- (Optional) Select a different project color from the color list.\n"
+"- Click Add to create the project."
+msgstr ""
+"- Bilo da planiraš prezentaciju, pripremaš se za događaj ili izrađuješ web-"
+"stranicu, stvori projekt i spremi sve važne podatke na jedno središnje "
+"mjesto.\n"
+"- U izborniku navigacije na lijevoj strani, na dnu, pritisni znak +.\n"
+"- U izborniku opcija odaberi „Projekt” i upiši ime novog projekta.\n"
+"- Odaberi izvor iz padajućeg izbornika.\n"
+"- (Opcionalno) Odaberi jednu drugu boju projekta s popisa boja.\n"
+"- Pritisni „Dodaj” za generiranje projekta."
+
+#: src/Utils.vala:892
+msgid "Sections"
+msgstr "Odjeljci"
+
+#: src/Utils.vala:898
+msgid "Add sections"
+msgstr "Dodaj odjeljke"
+
+#: src/Utils.vala:899
+msgid ""
+"- It’s always easier to take on a big project when you split it into easily "
+"manageable parts using Planner’s sections.\n"
+"- Organize your projects with sections to group your tasks together and get "
+"a better overview of what needs to be done. Add sections to your project, "
+"drag the relevant tasks to the section they belong in, and you’ll find it a "
+"lot easier to make progress (instead of getting overwhelmed by a single long "
+"list).\n"
+"- At the top right of a project, click the + icon.\n"
+"- Type the name of your section and click Add."
+msgstr ""
+"- Veliki projekt je najlakše započeti, tako da ga se podijeli na manje "
+"dijelove pomoću odjeljaka Planera.\n"
+"- Organiziraj projekte pomoću odjeljaka u kojima možeš grupirati svoje "
+"zadatke i dobiti bolji pregled o onome što se mora obaviti. Projektu dodaj "
+"odjeljke, povuci zadatke u pripadajuće odjeljke i na taj način ubrzaj "
+"obavljanje pojedinih zadataka (umjesto da te preplavi jedan dugačak "
+"pospis).\n"
+"- U gornjem desnom uglu projekta pritisni ikonu +.\n"
+"- Upiši ime odjeljka i pritisni „Dodaj”."
+
+#: src/Utils.vala:918
+msgid "Create a new task"
+msgstr "Stvori novi zadatak"
+
+#: src/Utils.vala:919
+msgid "Create a new task at the top of the list (only works inside projects)"
+msgstr "Stvori novi zadatak na vrhu popisa (moguće je samo unutar projekata)"
+
+#: src/Utils.vala:920
+msgid "Create a new area"
+msgstr "Stvori novo područje"
+
+#: src/Utils.vala:921
+msgid "Create a new project"
+msgstr "Stvori novi projekt"
+
+#: src/Utils.vala:922
+msgid "Create a new section"
+msgstr "Stvori novi odjeljak"
+
+#: src/Utils.vala:923
+msgid "Open the Inbox"
+msgstr "Otvori ulazni sandučić"
+
+#: src/Utils.vala:924
+msgid "Open Today"
+msgstr "Otvori današnji dan"
+
+#: src/Utils.vala:925
+msgid "Open Upcoming"
+msgstr "Otvori nadolazeće"
+
+#: src/Utils.vala:926
+msgid "Open Search"
+msgstr "Otvori pretragu"
+
+#: src/Utils.vala:927
+msgid "Manually sync"
+msgstr "Ručno sinkroniziraj"
+
+#: src/Utils.vala:928
+msgid "Quit"
+msgstr "Zatvori"
+
+#: src/Utils.vala:936
+msgid "The request was incorrect."
+msgstr "Zahtjev je bio neispravan."
+
+#: src/Utils.vala:937
+msgid ""
+"Authentication is required, and has failed, or has not yet been provided."
+msgstr "Autentifikacija je potrebna, a nije uspjela ili još nije zadana."
+
+#: src/Utils.vala:938
+msgid "The request was valid, but for something that is forbidden."
+msgstr "Zahtjev je bio ispravan, ali za nešto što je zabranjeno."
+
+#: src/Utils.vala:939
+msgid "The requested resource could not be found."
+msgstr "Zatraženi resurs nije pronađen."
+
+#: src/Utils.vala:940
+msgid "The user has sent too many requests in a given amount of time."
+msgstr "Korisnik je poslao previše zahtjeva u određenom vremenu."
+
+#: src/Utils.vala:941
+msgid "The request failed due to a server error."
+msgstr "Zahtjev nije uspio zbog greške na poslužitelju."
+
+#: src/Utils.vala:942
+msgid "The server is currently unable to handle the request."
+msgstr "Poslužitelj trenutačno ne može obraditi zahtjev."
+
+#. search_row = new Widgets.ActionRow (_("Quick Find"), "system-search-symbolic", "search", _("Your Inbox is the default place to add new tasks so you can get them out of your head quickly, then come back and make a plan to take care of them later. It’s a great way to declutter your mind so you can focus on whatever you’re doing right now."));
+#: src/Services/Database.vala:1035 src/Widgets/Pane.vala:72
+#: src/Widgets/ItemRow.vala:1324 src/Widgets/SectionRow.vala:750
+#: src/Views/Inbox.vala:82 src/Dialogs/Preferences/Preferences.vala:229
+#: src/Dialogs/Preferences/Preferences.vala:336 src/Dialogs/QuickFind.vala:69
+msgid "Inbox"
+msgstr "Ulazni sandučić"
+
+#: src/Services/Calendar/Util.vala:274
+msgid "On this computer"
+msgstr "Na ovom računalu"
+
+#: src/Widgets/ActionRow.vala:84 src/Widgets/ProjectRow.vala:150
+msgid "Todoist Project"
+msgstr "Todoist projekt"
+
+#: src/Widgets/ActionRow.vala:274 src/Widgets/ProjectRow.vala:397
+msgid "Unable to move task"
+msgstr "Nije moguće premjestiti zadatak"
+
+#. vala-lint=line-length
+#: src/Widgets/Pane.vala:74 src/Widgets/Pane.vala:410
+#: src/Views/Upcoming.vala:36 src/Dialogs/Preferences/Preferences.vala:236
+#: src/Dialogs/QuickFind.vala:83
+msgid "Upcoming"
+msgstr "Predstojeći"
+
+#: src/Widgets/Pane.vala:82 src/Widgets/New.vala:481
+msgid "Add Project"
+msgstr "Dodaj projekt"
+
+#: src/Widgets/Pane.vala:202 src/Dialogs/QuickFind.vala:143
+msgid "Quick Find"
+msgstr "Brza pretraga"
+
+#: src/Widgets/Pane.vala:216
+msgid "Preferences"
+msgstr "Postavke"
+
+#: src/Widgets/Pane.vala:238 src/Widgets/Pane.vala:472
+msgid "Sync"
+msgstr "Sinkronizraj"
+
+#: src/Widgets/Pane.vala:476
+msgid "Offline mode is on"
+msgstr "Bezmrežni modus je uključen"
+
+#: src/Widgets/Pane.vala:476
+msgid ""
+"Looks like you'are not connected to the\n"
+"internet. Changes you make in offline\n"
+"mode will be synced when you reconnect"
+msgstr ""
+"Čini se da nemaš vezu s internetom.\n"
+"Promjene u bezmrežnom načinu rada\n"
+"sinkronizirat će se kad se ponovo povežeš"
+
+#: src/Widgets/New.vala:64 src/Views/Inbox.vala:928 src/Views/Project.vala:1310
+#: src/Dialogs/ProjectSettings.vala:49
+msgid "Name:"
+msgstr "Ime:"
+
+#: src/Widgets/New.vala:89 src/Dialogs/ProjectSettings.vala:55
+msgid "Description:"
+msgstr "Opis:"
+
+#: src/Widgets/New.vala:107
+msgid "Folder:"
+msgstr "Mapa:"
+
+#: src/Widgets/New.vala:122 src/Dialogs/ProjectSettings.vala:98
+msgid "Color:"
+msgstr "Boja:"
+
+#: src/Widgets/New.vala:162 src/Widgets/NewItem.vala:91
+#: src/Widgets/ReminderButton.vala:250 src/Widgets/NewSection.vala:81
+#: src/Views/Inbox.vala:944 src/Views/Project.vala:1326
+msgid "Add"
+msgstr "Dodaj"
+
+#: src/Widgets/New.vala:167 src/Widgets/NewItem.vala:96
+#: src/Widgets/SectionRow.vala:166 src/Widgets/AreaRow.vala:148
+#: src/Widgets/ReminderButton.vala:248 src/Widgets/NewSection.vala:85
+#: src/Widgets/NewLabel.vala:77 src/Views/Inbox.vala:949
+#: src/Views/Project.vala:220 src/Views/Project.vala:1331
+msgid "Cancel"
+msgstr "Odustani"
+
+#: src/Widgets/New.vala:314
+msgid "Local"
+msgstr "Lokalno"
+
+#: src/Widgets/New.vala:389 src/Widgets/ProjectRow.vala:491
+msgid "No Folder"
+msgstr "Nema mape"
+
+#: src/Widgets/New.vala:462
+msgid "Project"
+msgstr "Projekt"
+
+#: src/Widgets/New.vala:467
+msgid "Start a new project, create a to do list, organize your notes."
+msgstr "Započni novi projekt, stvori popis zadataka, organiziraj bilješke."
+
+#: src/Widgets/New.vala:494
+msgid "Folder"
+msgstr "Mapa"
+
+#: src/Widgets/New.vala:499
+msgid "Organize your projects in groups and keep your panel clean."
+msgstr "Organiziraj projekte u grupe i održi ploču čistom."
+
+#: src/Widgets/New.vala:512
+#, fuzzy
+msgid "Add Folder"
+msgstr "Mapa"
+
+#: src/Widgets/New.vala:518 src/Dialogs/ProjectSettings.vala:157
+#: src/Dialogs/Preferences/Preferences.vala:78
+msgid "Close"
+msgstr "Zatvori"
+
+#: src/Widgets/New.vala:582
+msgid "New folder"
+msgstr "Nova mapa"
+
+#: src/Widgets/ProjectRow.vala:123 src/Views/Inbox.vala:129
+#: src/Views/Project.vala:205
+msgid "Project Menu"
+msgstr "Izbornik projekta"
+
+#: src/Widgets/ProjectRow.vala:146
+msgid "Local Project"
+msgstr "Lokalni projekt"
+
+#: src/Widgets/ProjectRow.vala:389 src/Widgets/ItemRow.vala:1333
+#: src/Widgets/ItemRow.vala:1353 src/Widgets/ItemRow.vala:1387
+#: src/Widgets/SectionRow.vala:1007 src/Widgets/SectionRow.vala:1064
+#, c-format
+msgid "Task moved to <b>%s</b>"
+msgstr "Zadatak premješten u <b>%s</b>"
+
+#: src/Widgets/ProjectRow.vala:547 src/Widgets/ItemRow.vala:1420
+#: src/Widgets/AreaRow.vala:651 src/Views/Project.vala:1035
+msgid "Edit"
+msgstr "Uredi"
+
+#: src/Widgets/ProjectRow.vala:548
+msgid "Move"
+msgstr "Premjesti"
+
+#: src/Widgets/ProjectRow.vala:552 src/Widgets/ItemRow.vala:1441
+#: src/Widgets/SectionRow.vala:816
+msgid "Share"
+msgstr "Dijeli"
+
+#: src/Widgets/ProjectRow.vala:556
+msgid "Send by e-mail"
+msgstr "Pošalji e-poštom"
+
+#. var share_text_menu = new Widgets.ImageMenuItem (_("Text"), "text-x-generic-symbolic");
+#: src/Widgets/ProjectRow.vala:557 src/Widgets/ItemRow.vala:1446
+#: src/Widgets/SectionRow.vala:821
+msgid "Markdown"
+msgstr "Markdown"
+
+#. var duplicate_menu = new Widgets.ImageMenuItem (_("Duplicate"), "edit-copy-symbolic");
+#. var archive_menu = new Widgets.ModelButton (_("Archive project"), "planner-archive-symbolic");
+#: src/Widgets/ProjectRow.vala:565 src/Widgets/ProjectRow.vala:592
+#: src/Widgets/ItemRow.vala:1453 src/Widgets/SectionRow.vala:827
+#: src/Widgets/SectionRow.vala:870 src/Widgets/AreaRow.vala:652
+#: src/Widgets/AreaRow.vala:690 src/Widgets/CheckRow.vala:81
+#: src/Views/Project.vala:1038 src/Views/Project.vala:1111
+msgid "Delete"
+msgstr "Izbriši"
+
+#: src/Widgets/ProjectRow.vala:587 src/Views/Project.vala:1106
+msgid "Delete project"
+msgstr "Izbriši projekt"
+
+#: src/Widgets/ProjectRow.vala:588 src/Widgets/SectionRow.vala:866
+#: src/Widgets/AreaRow.vala:678 src/Views/Project.vala:1107
+#, c-format
+msgid "Are you sure you want to delete <b>%s</b>?"
+msgstr "Stvarno želiš izbrisati <b>%s</b>?"
+
+#: src/Widgets/NewItem.vala:69 src/Widgets/ItemRow.vala:220
+#: src/Widgets/AreaRow.vala:122 src/Widgets/CheckRow.vala:66
+msgid "Task name"
+msgstr "Ime zadatka"
+
+#: src/Widgets/ItemRow.vala:184
+msgid "Hide Details"
+msgstr "Sakrij detalje"
+
+#: src/Widgets/ItemRow.vala:502
+msgid "Add Checklist"
+msgstr "Dodaj popis zadataka"
+
+#: src/Widgets/ItemRow.vala:509
+msgid "Delete Task"
+msgstr "Izbriši zadatak"
+
+#: src/Widgets/ItemRow.vala:523
+msgid "Task Menu"
+msgstr "Izbornik zadataka"
+
+#: src/Widgets/ItemRow.vala:690 src/Widgets/ItemRow.vala:1506
+msgid "Task deleted"
+msgstr "Zadatak izbrisan"
+
+#: src/Widgets/ItemRow.vala:1012
+#, c-format
+msgid "Completed. Next occurrence: %s"
+msgstr "Obavljeno. Sljedeće pojavljivanje: %s"
+
+#: src/Widgets/ItemRow.vala:1025
+#, fuzzy
+msgid "1 task completed"
+msgstr "Zadatak obavljen"
+
+#: src/Widgets/ItemRow.vala:1366
+msgid "No Section"
+msgstr "Nema odjeljka"
+
+#: src/Widgets/ItemRow.vala:1419
+msgid "Complete"
+msgstr "Obavljeno"
+
+#: src/Widgets/ItemRow.vala:1428 src/Widgets/DueButton.vala:208
+msgid "Undated"
+msgstr "Nedatirano"
+
+#: src/Widgets/ItemRow.vala:1433 src/Widgets/SectionRow.vala:812
+msgid "Move to Project"
+msgstr "Premjesti u projekt"
+
+#: src/Widgets/ItemRow.vala:1437
+msgid "Move to Section"
+msgstr "Premjesti u odjeljak"
+
+#: src/Widgets/ItemRow.vala:1445
+msgid "Text"
+msgstr "Tekst"
+
+#: src/Widgets/ItemRow.vala:1452
+msgid "Duplicate"
+msgstr "Dupliciraj"
+
+#: src/Widgets/ItemRow.vala:1578 src/Widgets/ItemCompletedRow.vala:41
+msgid "Note"
+msgstr "Napomena"
+
+#: src/Widgets/ItemCompletedRow.vala:39
+msgid "Content"
+msgstr "Sadržaj"
+
+#: src/Widgets/ItemCompletedRow.vala:45
+msgid "Due date"
+msgstr "Datum roka"
+
+#: src/Widgets/ItemCompletedRow.vala:48
+msgid "Date completed"
+msgstr "Datum obavljanja"
+
+#. hidden_button.margin_end = 6;
+#: src/Widgets/SectionRow.vala:85 src/Widgets/SectionRow.vala:936
+msgid "Display Tasks"
+msgstr "Prikaži zadatke"
+
+#: src/Widgets/SectionRow.vala:97 src/Widgets/SectionRow.vala:941
+msgid "Hiding Tasks"
+msgstr "Sakrivanje zadataka"
+
+#: src/Widgets/SectionRow.vala:102 src/Widgets/SectionRow.vala:806
+#: src/Widgets/MagicButton.vala:32
+msgid "Add Task"
+msgstr "Dodaj zadatak"
+
+#: src/Widgets/SectionRow.vala:125 src/Widgets/NewSection.vala:69
+msgid "Section name"
+msgstr "Ime odjeljka"
+
+#: src/Widgets/SectionRow.vala:145 src/Widgets/AreaRow.vala:97
+msgid "Section Menu"
+msgstr "Izbornik odjeljka"
+
+#. top_box.pack_end (hidden_revealer, false, true, 0);
+#. top_box.margin_top = 6;
+#: src/Widgets/SectionRow.vala:162 src/Widgets/AreaRow.vala:144
+#: src/Views/Project.vala:216 src/Dialogs/ProjectSettings.vala:159
+msgid "Save"
+msgstr "Spremi"
+
+#: src/Widgets/SectionRow.vala:199 src/Views/Project.vala:248
+msgid "Add a description"
+msgstr "Dodaj opis"
+
+#: src/Widgets/SectionRow.vala:208 src/Views/Project.vala:849
+msgid "Description"
+msgstr "Opis"
+
+#: src/Widgets/SectionRow.vala:757 src/Widgets/SectionRow.vala:778
+#, c-format
+msgid "Section moved to <b>%s</b>"
+msgstr "Odjeljak premješten u <b>%s</b>"
+
+#: src/Widgets/SectionRow.vala:809
+msgid "Rename"
+msgstr "Preimenuj"
+
+#: src/Widgets/SectionRow.vala:810
+msgid "Add Note"
+msgstr "Dodaj bilješku"
+
+#: src/Widgets/SectionRow.vala:865
+msgid "Delete section"
+msgstr "Izbriši odjeljak"
+
+#: src/Widgets/SectionRow.vala:883
+msgid "Section deleted"
+msgstr "Odjeljak izbrisan"
+
+#: src/Widgets/DueButton.vala:54 src/Widgets/DueButton.vala:63
+#: src/Widgets/DueButton.vala:134
+msgid "Schedule"
+msgstr "Odredi termin"
+
+#: src/Widgets/DueButton.vala:217
+msgid "Repeat"
+msgstr "Ponavljaj"
+
+#: src/Widgets/DueButton.vala:240
+msgid "Every day"
+msgstr "Svaki dan"
+
+#: src/Widgets/DueButton.vala:246
+msgid "Every week"
+msgstr "Svaki tjedan"
+
+#: src/Widgets/DueButton.vala:252
+msgid "Every month"
+msgstr "Svaki mjesec"
+
+#: src/Widgets/DueButton.vala:258
+msgid "Every year"
+msgstr "Svake godine"
+
+#: src/Widgets/LabelButton.vala:40 src/Dialogs/Preferences/Preferences.vala:116
+#: src/Dialogs/Preferences/Preferences.vala:767 src/Dialogs/QuickFind.vala:279
+#: src/Dialogs/QuickFind.vala:655
+msgid "Labels"
+msgstr "Etikete"
+
+#: src/Widgets/LabelButton.vala:50
+msgid "labels"
+msgstr "etikete"
+
+#: src/Widgets/LabelButton.vala:90 src/Widgets/LabelButton.vala:243
+msgid "Using Labels"
+msgstr "Upotreba etiketa"
+
+#: src/Widgets/LabelButton.vala:91 src/Widgets/LabelButton.vala:244
+msgid ""
+"Categorize your to-dos with labels, then use them to filter your lists and "
+"get focused."
+msgstr ""
+"Kategoriziraj svoje zadatke s etiketama, zatim ih koristi za filtriranje "
+"tvojih popisa."
+
+#: src/Widgets/LabelButton.vala:123
+msgid "Type a label"
+msgstr "Upiši etiketu"
+
+#: src/Widgets/LabelButton.vala:133 src/Widgets/LabelButton.vala:223
+#: src/Widgets/LabelButton.vala:241
+msgid "Edit labels"
+msgstr "Uredi etikete"
+
+#: src/Widgets/LabelButton.vala:233
+msgid "Add label"
+msgstr "Dodaj etiketu"
+
+#: src/Widgets/LabelButton.vala:236
+msgid "Label not found"
+msgstr "Etiketa nije pronađena"
+
+#: src/Widgets/LabelButton.vala:237
+#, c-format
+msgid "Create '%s'"
+msgstr "Stvori „%s”"
+
+#: src/Widgets/Toast.vala:68
+msgid "Undo"
+msgstr "Poništi"
+
+#: src/Widgets/AreaRow.vala:648
+msgid "Add project"
+msgstr "Dodaj projekt"
+
+#: src/Widgets/AreaRow.vala:677
+msgid "Delete folder"
+msgstr "Izbriši mapu"
+
+#: src/Widgets/AreaRow.vala:685
+msgid "Delete projects"
+msgstr "Izbriši projekte"
+
+#: src/Widgets/NewCheck.vala:73
+msgid "Subtask name"
+msgstr "Ime podređenog zadatka"
+
+#: src/Widgets/LabelItem.vala:43
+msgid "Remove"
+msgstr "Ukloni"
+
+#: src/Widgets/UpcomingRow.vala:76
+msgid "Add task"
+msgstr "Dodaj zadatak"
+
+#: src/Widgets/ReminderButton.vala:43
+msgid "Reminders"
+msgstr "Podsjetnici"
+
+#: src/Widgets/ReminderButton.vala:179
+msgid "Add reminder"
+msgstr "Dodaj podsjetnik"
+
+#: src/Widgets/ReminderButton.vala:221
+msgid "Never forget a task again! Have Planner send you a reminder."
+msgstr ""
+"Nikad više nemoj zaboraviti zadatke! Koristi Planer za dobivanje obavijesti "
+"o zadacima."
+
+#: src/Widgets/ReminderButton.vala:241
+msgid "Time:"
+msgstr "Vrijeme:"
+
+#: src/Widgets/NewLabel.vala:42
+msgid "Add Label"
+msgstr "Dodaj etiketu"
+
+#: src/Widgets/Calendar/CalendarHeader.vala:34
+msgid "%OB, %Y"
+msgstr "%OB, %Y."
+
+#: src/Widgets/Calendar/CalendarHeader.vala:43
+msgid "%OB %Y"
+msgstr "%OB %Y."
+
+#: src/Widgets/Calendar/CalendarWeek.vala:27
+msgid "Mon"
+msgstr "pon"
+
+#: src/Widgets/Calendar/CalendarWeek.vala:30
+msgid "Tue"
+msgstr "uto"
+
+#: src/Widgets/Calendar/CalendarWeek.vala:33
+msgid "Wed"
+msgstr "sri"
+
+#: src/Widgets/Calendar/CalendarWeek.vala:36
+msgid "Thu"
+msgstr "čet"
+
+#: src/Widgets/Calendar/CalendarWeek.vala:39
+msgid "Fri"
+msgstr "pet"
+
+#: src/Widgets/Calendar/CalendarWeek.vala:42
+msgid "Sat"
+msgstr "sub"
+
+#: src/Widgets/Calendar/CalendarWeek.vala:45
+msgid "Sun"
+msgstr "ned"
+
+#: src/Views/Welcome.vala:26
+msgid "Never worry about forgetting things again"
+msgstr "Nikad više nemoj brinuti o tome da ćeš nešto zaboraviti"
+
+#: src/Views/Welcome.vala:28
+msgid "Startup"
+msgstr "Pokretanje"
+
+#: src/Views/Welcome.vala:28
+msgid "Start working locally."
+msgstr "Počni raditi lokalno."
+
+#: src/Views/Welcome.vala:29 src/Dialogs/Preferences/Preferences.vala:890
+msgid "Todoist"
+msgstr "Todoist"
+
+#: src/Views/Welcome.vala:29
+msgid "Synchronize with your Todoist account and start working."
+msgstr "Sinkroniziraj sa svojim Todoist računom i počni raditi."
+
+#: src/Views/Inbox.vala:93 src/Views/Project.vala:161
+#: src/Views/Project.vala:169
+msgid "Add Section"
+msgstr "Dodaj odjeljak"
+
+#: src/Views/Inbox.vala:101 src/Views/Project.vala:177
+msgid "Invite person"
+msgstr "Pozovi osobu"
+
+#: src/Views/Inbox.vala:110 src/Views/Project.vala:186
+msgid "Project comments"
+msgstr "Komentari projekta"
+
+#: src/Views/Inbox.vala:118 src/Views/Project.vala:194
+msgid "Search task"
+msgstr "Traži zadatak"
+
+#: src/Views/Inbox.vala:285
+msgid "All clear"
+msgstr "Sve je u redu"
+
+#: src/Views/Inbox.vala:286
+msgid "Looks like everything's organized in the right place."
+msgstr "Čini se da je sve na svom mjestu."
+
+#: src/Views/Inbox.vala:801 src/Views/Project.vala:1047
+msgid "Show Completed"
+msgstr "Prikaži obavljene"
+
+#: src/Views/Today.vala:93
+msgid "Overdue"
+msgstr "Prekoračen rok"
+
+#: src/Views/Today.vala:109
+msgid "Reschedule"
+msgstr "Promijeni termin"
+
+#: src/Views/Today.vala:138
+msgid "What tasks are on your mind?"
+msgstr "O kojim zadacima razmišljaš?"
+
+#: src/Views/Today.vala:139
+msgid "Tap + to add a task for today."
+msgstr "Dodirni + za dodavanje zadatka na današnji dan."
+
+#: src/Views/Project.vala:143 src/Views/Project.vala:826
+#, c-format
+msgid "Progress: %s"
+msgstr "Napredak: %s"
+
+#: src/Views/Project.vala:392
+msgid "What will you accomplish?"
+msgstr "Što želiš postići?"
+
+#: src/Views/Project.vala:393
+msgid "Tap + to add a task to this project."
+msgstr "Dodirni + za dodavanje zadatka ovom projektu."
+
+#: src/Views/Project.vala:1250
+msgid "Your Productivity"
+msgstr "Tvoja produktivnost"
+
+#: src/Views/Project.vala:1255
+msgid "Progress:"
+msgstr "Napredak:"
+
+#: src/Views/Project.vala:1266
+msgid "Duedate:"
+msgstr "Datum roka:"
+
+#: src/Dialogs/TodoistOAuth.vala:45 src/Dialogs/TodoistOAuth.vala:122
+msgid "Loading…"
+msgstr "Učitava se …"
+
+#. Alert
+#: src/Dialogs/TodoistOAuth.vala:69 src/Dialogs/TodoistOAuth.vala:136
+msgid "Network Is Not Available"
+msgstr "Mreža nije dostupna"
+
+#: src/Dialogs/TodoistOAuth.vala:70
+msgid "Connect to the Internet to connect with Todoist"
+msgstr "Poveži se na internet za povezivanje na Todoist"
+
+#: src/Dialogs/TodoistOAuth.vala:103
+msgid "Synchronizing… Wait a moment please."
+msgstr "Sinkronizacija je u tijeku … pričekaj."
+
+#: src/Dialogs/TodoistOAuth.vala:114
+msgid "Please enter your credentials…"
+msgstr "Upiši svoje vjerodajnice …"
+
+#: src/Dialogs/ProjectSettings.vala:74
+msgid "Deadline:"
+msgstr "Rok:"
+
+#: src/Dialogs/ProjectSettings.vala:129
+msgid "Uploading changes…"
+msgstr "Promjene se prenose …"
+
+#. General
+#: src/Dialogs/Preferences/Preferences.vala:89
+#: src/Dialogs/Preferences/Preferences.vala:96
+#: src/Dialogs/Preferences/Preferences.vala:627
+msgid "General"
+msgstr "Opće"
+
+#: src/Dialogs/Preferences/Preferences.vala:92
+#: src/Dialogs/Preferences/Preferences.vala:215
+msgid "Homepage"
+msgstr "Početna stranica"
+
+#: src/Dialogs/Preferences/Preferences.vala:93
+#: src/Dialogs/Preferences/Preferences.vala:319
+msgid "Badge Count"
+msgstr "Broj znački"
+
+#: src/Dialogs/Preferences/Preferences.vala:94
+#: src/Dialogs/Preferences/Preferences.vala:392
+msgid "Theme"
+msgstr "Tema"
+
+#: src/Dialogs/Preferences/Preferences.vala:95
+#: src/Dialogs/Preferences/Preferences.vala:463
+msgid "Quick Add"
+msgstr "Brzo dodavanje"
+
+#. Addons
+#: src/Dialogs/Preferences/Preferences.vala:111
+msgid "Add-ons"
+msgstr "Dodaci"
+
+#: src/Dialogs/Preferences/Preferences.vala:115
+#: src/Dialogs/Preferences/Preferences.vala:1029
+msgid "Calendar Events"
+msgstr "Kalendarski događaji"
+
+#: src/Dialogs/Preferences/Preferences.vala:117
+#: src/Dialogs/Preferences/Preferences.vala:476
+msgid "Keyboard Shortcuts"
+msgstr "Tipkovnički prečaci"
+
+#. Others
+#: src/Dialogs/Preferences/Preferences.vala:132
+#: src/Dialogs/Preferences/Preferences.vala:1201
+msgid "About"
+msgstr "Informacije"
+
+#: src/Dialogs/Preferences/Preferences.vala:133
+#: src/Dialogs/Preferences/Preferences.vala:1107
+msgid "Support & Credits"
+msgstr "Podrška i zasluge"
+
+#: src/Dialogs/Preferences/Preferences.vala:218
+msgid ""
+"When you open up Planner, make sure you see the tasks that are most "
+"important. The default homepage is your <b>Inbox</b> view, but you can "
+"change it to whatever you'd like."
+msgstr ""
+"Kad otvoriš Planer, otvori pogled na zadatke koji su najvažniji. Standardna "
+"početna stranica je <b>Ulazni sandučić</b>, ali to možeš promijeniti u što "
+"god želiš."
+
+#: src/Dialogs/Preferences/Preferences.vala:250 src/Dialogs/QuickFind.vala:292
+#: src/Dialogs/QuickFind.vala:545
+msgid "Projects"
+msgstr "Projekti"
+
+#: src/Dialogs/Preferences/Preferences.vala:322
+msgid ""
+"Choose which items should be counted for the badge on the application icon."
+msgstr "Odaberi koji se elementi broje u značci na ikoni aplikacije."
+
+#: src/Dialogs/Preferences/Preferences.vala:332
+msgid "None"
+msgstr "Ništa"
+
+#: src/Dialogs/Preferences/Preferences.vala:342
+msgid "Today + Inbox"
+msgstr "Danas i ulazni sandučić"
+
+#: src/Dialogs/Preferences/Preferences.vala:395
+msgid ""
+"Personalize the look and feel of your Planner by choosing the theme that "
+"best suits you."
+msgstr "Prilagodi izgled Planera odabirom teme koja ti najviše odgovara."
+
+#: src/Dialogs/Preferences/Preferences.vala:405
+msgid "Light"
+msgstr "Svjetla"
+
+#: src/Dialogs/Preferences/Preferences.vala:409
+msgid "Night"
+msgstr "Tamna"
+
+#: src/Dialogs/Preferences/Preferences.vala:412
+msgid "Dark Blue"
+msgstr "Tamnoplava"
+
+#: src/Dialogs/Preferences/Preferences.vala:415
+msgid "Arc Dark"
+msgstr "Arc tamna"
+
+#: src/Dialogs/Preferences/Preferences.vala:466
+msgid ""
+"Don't worry about which app you're using. You can use a keyboard shortcut to "
+"open the Quick Add window, where you can enter a pending task and quickly "
+"return to work. You can change the keyboard shortcut whenever you want."
+msgstr ""
+"Ne brini o tome, koji program koristiš. Pomoću tipkovničkih prečaca možeš "
+"otvoriti prozor „Brzo dodavanje” u kojem možeš upisati čekajući zadatak i "
+"brzo se vratiti na posao. Tipkovničke prečace možeš promijeniti kad god "
+"želiš."
+
+#: src/Dialogs/Preferences/Preferences.vala:488
+#: src/Dialogs/Preferences/Preferences.vala:569
+#: src/Dialogs/Preferences/Preferences.vala:577
+msgid "Change"
+msgstr "Promjeni"
+
+#: src/Dialogs/Preferences/Preferences.vala:514
+msgid "Change Keyboard Shortcut"
+msgstr "Promijeni tipkovnički prečac"
+
+#: src/Dialogs/Preferences/Preferences.vala:523
+msgid "Save Last Selected Project"
+msgstr "Spremi zadnje odabrani projekt"
+
+#: src/Dialogs/Preferences/Preferences.vala:567
+#: src/Dialogs/Preferences/Preferences.vala:575
+msgid "Press keys…"
+msgstr "Pritisni tipke …"
+
+#: src/Dialogs/Preferences/Preferences.vala:630
+msgid "DE Integration"
+msgstr "Integracija s desktop okruženjem"
+
+#: src/Dialogs/Preferences/Preferences.vala:634
+msgid "Run in background"
+msgstr "Pokreni u pozadini"
+
+#: src/Dialogs/Preferences/Preferences.vala:638
+msgid ""
+"Enable this setting to keep Planner running in the background when it "
+"closes. This will allow Planner to continue updating and sending reminder "
+"notifications."
+msgstr ""
+"Aktiviraj ovu postavku za pokretanje Planera u pozadini kad se zatvori. Na "
+"taj način Planer i dalje aktualizira i šalje poruke podsjetnika."
+
+#: src/Dialogs/Preferences/Preferences.vala:646
+msgid "Run on startup"
+msgstr "Pokreni prilikom pokretanja sustava"
+
+#: src/Dialogs/Preferences/Preferences.vala:650
+msgid "Enable this setting to make Planner startup with the system."
+msgstr ""
+"Aktiviraj ovu postavku za pokretanje Planera prilikom pokretanja sustava."
+
+#: src/Dialogs/Preferences/Preferences.vala:667
+msgid "Button layout"
+msgstr "Raspored gumbova"
+
+#: src/Dialogs/Preferences/Preferences.vala:676
+msgid "Help"
+msgstr "Pomoć"
+
+#: src/Dialogs/Preferences/Preferences.vala:680
+msgid "Create tutorial project"
+msgstr "Stvori projekt za vježbu"
+
+#: src/Dialogs/Preferences/Preferences.vala:680
+msgid "Create"
+msgstr "Stvori"
+
+#: src/Dialogs/Preferences/Preferences.vala:682
+msgid "Danger zone"
+msgstr "Opasno područje"
+
+#: src/Dialogs/Preferences/Preferences.vala:687
+#: src/Dialogs/Preferences/Preferences.vala:749
+msgid "Reset all"
+msgstr "Vrati sve na izvorno"
+
+#: src/Dialogs/Preferences/Preferences.vala:687
+msgid "Reset"
+msgstr "Vrati na izvorno"
+
+#: src/Dialogs/Preferences/Preferences.vala:735
+msgid "Your tutorial project was created"
+msgstr "Tvoj projekt za vježbu je stvoren"
+
+#: src/Dialogs/Preferences/Preferences.vala:744
+msgid "Are you sure you want to reset all?"
+msgstr "Stvarno želiš sve vratiti na izvorne vrijednosti?"
+
+#: src/Dialogs/Preferences/Preferences.vala:745
+msgid ""
+"It process removes all stored information without the possibility of undoing "
+"it."
+msgstr "Nepovratno se uklanjaju svi spremljeni podaci."
+
+#: src/Dialogs/Preferences/Preferences.vala:770
+msgid ""
+"Save time by batching similar tasks together using labels. You’ll be able to "
+"pull up a list of all tasks with any given label in a matter of seconds."
+msgstr ""
+"Uštedi vrijeme grupiranjem sličnih zadataka pomoću etiketa. Stvori popis "
+"svih zadataka s određenom etiketom u roku od par sekundi."
+
+#: src/Dialogs/Preferences/Preferences.vala:914
+#, c-format
+msgid "Last successful sync: %s"
+msgstr "Zadnja uspješna sinkronizacija: %s"
+
+#: src/Dialogs/Preferences/Preferences.vala:923
+msgid "Sync server"
+msgstr "Sinkronizraj s poslužiteljem"
+
+#: src/Dialogs/Preferences/Preferences.vala:928
+msgid ""
+"Activate this setting so that Planner automatically synchronizes with your "
+"Todoist account every 15 minutes."
+msgstr ""
+"Aktiviraj ovu postavku kako bi se Planer automatski sinkronizirao s tvojim "
+"Todoist računom svakih 15 minuta."
+
+#: src/Dialogs/Preferences/Preferences.vala:940
+#: src/Dialogs/Preferences/Preferences.vala:995
+msgid "Log out"
+msgstr "Odjava"
+
+#: src/Dialogs/Preferences/Preferences.vala:990
+msgid "Are you sure you want to log out?"
+msgstr "Stvarno se želiš odjaviti?"
+
+#: src/Dialogs/Preferences/Preferences.vala:991
+msgid "This process will close your Todoist session on this device."
+msgstr "Ovaj će postupak zatvoriti sesiju Todoista na ovom uređaju."
+
+#: src/Dialogs/Preferences/Preferences.vala:1032
+msgid ""
+"You can connect your <b>Calendar</b> app to Planner to see your events and "
+"to-dos together in one place. You’ll see events from both personal and "
+"shared calendars in <b>Today</b> and <b>Upcoming</b>. This is useful when "
+"you’re managing your day, and as you plan the week ahead."
+msgstr ""
+"Tvoj program <b>Kalendar</b> možeš povezati s Planerom za prikaz tvojih "
+"događaja i zadataka na jednom mjestu. Događaje iz osobnog i zajedničkih "
+"kalendara vidjet ćeš u pogledima <b>Danas</b> i <b>Predstojeći</b>. Ovo je "
+"korisno za organiziranje dana i planiranje sljedećeg tjedna."
+
+#: src/Dialogs/Preferences/Preferences.vala:1043
+msgid "Enabled"
+msgstr "Aktivirano"
+
+#: src/Dialogs/Preferences/Preferences.vala:1110
+msgid ""
+"Planner is being developed with ❤️ and passion for Open Source. However, if "
+"you like Planner and want to support its development, consider donating to "
+"via:"
+msgstr ""
+"Planer se razvija s ❤️ i strašću prema otvorenom kodu. Međutim, ako ti se "
+"Planer sviđa i želiš podržati njegov razvoj, razmisli o donaciji putem:"
+
+#: src/Dialogs/Preferences/Preferences.vala:1136
+msgid ""
+"Thanks to them who made a donation via Patreon or PayPal. (If you want to "
+"appear here visit our Patreon account 😉️)"
+msgstr ""
+"Zahvaljujemo svima koji su donirali putem Patreona ili PayPala. (Ako ovdje "
+"želiš vidjeti svoje ime, posjeti naš Patreon račun 😉️)"
+
+#: src/Dialogs/Preferences/Preferences.vala:1215
+msgid "Website"
+msgstr "Web-stranica"
+
+#: src/Dialogs/Preferences/Preferences.vala:1216
+msgid "Follow"
+msgstr "Prati"
+
+#: src/Dialogs/Preferences/Preferences.vala:1217
+msgid "Report a Problem"
+msgstr "Prijavi problem"
+
+#: src/Dialogs/Preferences/Preferences.vala:1218
+msgid "Suggest Translations"
+msgstr "Predloži prijevod"
+
+#: src/Dialogs/Preferences/Preferences.vala:1337
+msgid "Disabled"
+msgstr "Deaktivirano"
+
+#: src/Dialogs/Preferences/TopBox.vala:43
+msgid "Back"
+msgstr "Natrag"
+
+#: src/Dialogs/QuickFind.vala:90
+msgid "Completed"
+msgstr "Obavljeno"
+
+#: src/Dialogs/QuickFind.vala:99
+msgid "Priority 1"
+msgstr "Prioritet 1"
+
+#: src/Dialogs/QuickFind.vala:107
+msgid "Priority 2"
+msgstr "Prioritet 2"
+
+#: src/Dialogs/QuickFind.vala:115
+msgid "Priority 3"
+msgstr "Prioritet 3"
+
+#: src/Dialogs/QuickFind.vala:123
+msgid "Priority 4"
+msgstr "Prioritet 4"
+
+#: src/Dialogs/QuickFind.vala:128
+msgid "Search"
+msgstr "Pretraga"
+
+#: src/Dialogs/QuickFind.vala:156
+msgid "Quickly switch projects and views, find tasks, search by labels."
+msgstr ""
+"Brzo se prebaci između projekata i pogleda, pronađi zadatke, traži pomoću "
+"etiketa."
+
+#: src/Dialogs/QuickFind.vala:184
+msgid "UP"
+msgstr "GORE"
+
+#: src/Dialogs/QuickFind.vala:189
+msgid "DOWN"
+msgstr "DOLJE"
+
+#: src/Dialogs/QuickFind.vala:194
+msgid "ENTER"
+msgstr "ENTER"
+
+#: src/Dialogs/QuickFind.vala:199
+msgid "ESC"
+msgstr "ESC"
+
+#: src/Dialogs/QuickFind.vala:209
+msgid "Use"
+msgstr "Koristi"
+
+#: src/Dialogs/QuickFind.vala:212
+msgid "to navigate and"
+msgstr "za navigiranje i"
+
+#: src/Dialogs/QuickFind.vala:214
+msgid "to select,"
+msgstr "za biranje,"
+
+#: src/Dialogs/QuickFind.vala:216
+msgid "to close."
+msgstr "za zatvaranje."
+
+#: src/Dialogs/QuickFind.vala:492
+msgid "Enter"
+msgstr "Enter"
+
+#: src/Dialogs/QuickFind.vala:506
+msgid "Tasks"
+msgstr "Zadaci"
+
+#: src/Dialogs/QuickFind.vala:602
+msgid "Views"
+msgstr "Pogledi"
+
+#: src/Dialogs/QuickFind.vala:700
+msgid "Priorities"
+msgstr "Prioriteti"
+
+#: src/Objects/Project.vala:104
+msgid "The Project was copied to the Clipboard."
+msgstr "Projekt je kopiran u međuspremnik."
+
+#: src/Objects/Item.vala:125 src/Objects/Item.vala:134
+#, fuzzy
+msgid "Task duplicate"
+msgstr "Dupliciraj"
+
+#: src/Objects/Item.vala:214 src/Objects/Item.vala:231
+msgid "The Task was copied to the Clipboard."
+msgstr "Zadatak je kopiran u međuspremnik."
+
+#: src/Objects/Section.vala:98
+msgid "The Section was copied to the Clipboard."
+msgstr "Odjeljak je kopiran u međuspremnik."
+
+#~ msgid "Duplicate task"
+#~ msgstr "Dupliciraj zadatak"
+
+#~ msgid ""
+#~ "Your Inbox is the default place to add new tasks so you can get them out "
+#~ "of your head quickly, then come back and make a plan to take care of them "
+#~ "later. It’s a great way to declutter your mind so you can focus on "
+#~ "whatever you’re doing right now."
+#~ msgstr ""
+#~ "Tvoj „Ulazni sandučić” je standardno mjesto za brzo dodavanje novih "
+#~ "zadataka. Kasnije kad imaš vremena, vrati se i napravi plan. U "
+#~ "međuvremenu nastavi s radom i usredotoči se na ono što trenutačno radiš."
+
+#~ msgid ""
+#~ "The Today view lets you see all the tasks due today across all your "
+#~ "projects. Check in here every morning to make a realistic plan to tackle "
+#~ "your day."
+#~ msgstr ""
+#~ "Pogled „Danas” prikazuje sve zadatke u svim projektima koji se na "
+#~ "današnji dan moraju obaviti. Provjeri ovo područje svakog jutra i "
+#~ "isplaniraj si dan."
+
+#~ msgid ""
+#~ "Plan your week ahead with the Upcoming view. It shows everything on your "
+#~ "agenda for the coming days: scheduled to-dos and calendar events."
+#~ msgstr ""
+#~ "Planiraj svoj tjedan unaprijed s pogledom „Predstojeći”. U njemu se "
+#~ "prikazuje sve što je na tvom dnevnom redu narednih dana: planirani zadaci "
+#~ "i kalendarski događaji."
+
+#~ msgid "New area"
+#~ msgstr "Novo područje"

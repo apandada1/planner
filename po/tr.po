@@ -1,0 +1,1460 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the com.github.alainm23.planner package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: com.github.alainm23.planner\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-08 13:24-0500\n"
+"PO-Revision-Date: 2020-06-21 09:41+0000\n"
+"Last-Translator: Oğuz Ersen <oguzersen@protonmail.com>\n"
+"Language-Team: Turkish <https://hosted.weblate.org/projects/planner/"
+"translations/tr/>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.2-dev\n"
+
+#: src/MainWindow.vala:50
+msgid "Planner"
+msgstr "Planlayıcı"
+
+#: src/Utils.vala:28
+#, fuzzy
+msgid "today"
+msgstr "Bugün"
+
+#: src/Utils.vala:29
+#, fuzzy
+msgid "tomorrow"
+msgstr "Yarın"
+
+#: src/Utils.vala:127 src/Utils.vala:134 src/Widgets/LabelRow.vala:82
+msgid "Home"
+msgstr "Ev"
+
+#: src/Utils.vala:128 src/Utils.vala:138
+msgid "Office"
+msgstr "Ofis"
+
+#: src/Utils.vala:129 src/Utils.vala:142
+msgid "Errand"
+msgstr "İş"
+
+#: src/Utils.vala:130 src/Utils.vala:146
+msgid "Important"
+msgstr "Önemli"
+
+#: src/Utils.vala:131 src/Utils.vala:150
+msgid "Pending"
+msgstr "Bekliyor"
+
+#: src/Utils.vala:194
+msgid "Berry Red"
+msgstr "Kırmızı Dut"
+
+#: src/Utils.vala:195
+msgid "Red"
+msgstr "Kırmızı"
+
+#: src/Utils.vala:196
+msgid "Orange"
+msgstr "Portakal"
+
+#: src/Utils.vala:197
+msgid "Yellow"
+msgstr "Sarı"
+
+#: src/Utils.vala:198
+msgid "Olive Green"
+msgstr "Zeytin Yeşili"
+
+#: src/Utils.vala:199
+msgid "Lime Green"
+msgstr "Limon Yeşili"
+
+#: src/Utils.vala:200
+msgid "Green"
+msgstr "Yeşil"
+
+#: src/Utils.vala:201
+msgid "Mint Green"
+msgstr "Nane Yeşili"
+
+#: src/Utils.vala:202
+msgid "Teal"
+msgstr "Deniz Mavisi"
+
+#: src/Utils.vala:203
+msgid "Sky Blue"
+msgstr "Gökyüzü Mavisi"
+
+#: src/Utils.vala:204
+msgid "Light Blue"
+msgstr "Açık Mavi"
+
+#: src/Utils.vala:205
+msgid "Blue"
+msgstr "Mavi"
+
+#: src/Utils.vala:206
+msgid "Grape"
+msgstr "Üzüm Moru"
+
+#: src/Utils.vala:207
+msgid "Violet"
+msgstr "Menekşe Rengi"
+
+#: src/Utils.vala:208
+msgid "Lavander"
+msgstr "Lavanta"
+
+#: src/Utils.vala:209
+msgid "Magenta"
+msgstr "Eflatun"
+
+#: src/Utils.vala:210
+msgid "Salmon"
+msgstr "Sarımsı Pembe"
+
+#: src/Utils.vala:211
+msgid "Charcoal"
+msgstr "Kömür Grisi"
+
+#: src/Utils.vala:212
+msgid "Grey"
+msgstr "Gri"
+
+#: src/Utils.vala:213
+msgid "Taupe"
+msgstr "Boz kahverengi"
+
+#. vala-lint=line-length
+#: src/Utils.vala:574 src/Widgets/Pane.vala:73 src/Widgets/ItemRow.vala:1422
+#: src/Widgets/DueButton.vala:196 src/Views/Today.vala:59
+#: src/Views/Today.vala:613 src/Dialogs/Preferences/Preferences.vala:233
+#: src/Dialogs/Preferences/Preferences.vala:339 src/Dialogs/QuickFind.vala:76
+msgid "Today"
+msgstr "Bugün"
+
+#: src/Utils.vala:576 src/Widgets/Pane.vala:408 src/Widgets/ItemRow.vala:1425
+#: src/Widgets/DueButton.vala:202 src/Widgets/UpcomingRow.vala:64
+#: src/Views/Today.vala:619
+msgid "Tomorrow"
+msgstr "Yarın"
+
+#: src/Utils.vala:815
+msgid "Quick Add Activated!"
+msgstr "Hızlı Ekleme Etkin!"
+
+#: src/Utils.vala:816
+#, c-format
+msgid "Try %s to activate it. You can change it from the preferences"
+msgstr ""
+"Etkinleştirmek için %s öğesini deneyin. Bunu tercihlerden değiştirebilirsiniz"
+
+#: src/Utils.vala:855
+msgid "🚀️ Getting Started"
+msgstr "🚀️ Başlarken"
+
+#: src/Utils.vala:856
+msgid ""
+"This project will help you learn the basics of Planner and get started with "
+"a simple task management system to stay organized and on top of everything "
+"you need to do."
+msgstr ""
+"Bu proje, Planner'ın temellerini öğrenmenize ve düzenli kalmak ve yapmanız "
+"gereken her şeyin üstünde basit bir görev yönetim sistemine başlamanıza "
+"yardımcı olacaktır."
+
+#: src/Utils.vala:861
+msgid "Keeping track of your tasks"
+msgstr "Görevlerinizi takip etme"
+
+#: src/Utils.vala:862
+msgid ""
+"It turns out, our brains are actually wired to keep us thinking about our "
+"unfinished tasks. Handy when you have one thing you need to work on. Not so "
+"good when you have 30+ tasks vying for your attention at once. That’s why "
+"the first step to organizing your work and life is getting everything out of "
+"your head and onto your to-do list. From there you can begin to organize and "
+"prioritize so you know exactly what to focus on and when."
+msgstr ""
+"Anlaşılan, beynimiz aslında bitmemiş görevlerimizi düşünmemizi sağlamak için "
+"kablolu. Üzerinde çalışmanız gereken bir şey olduğunda kullanışlı. Bir "
+"kerede ilgilenmek için yarışan 30+ göreviniz olduğunda çok iyi değil. Bu "
+"yüzden işinizi ve hayatınızı organize etmenin ilk adımı her şeyi aklınızdan "
+"çıkarmak ve yapılacaklar listenize almaktır. Oradan organize etmeye ve "
+"öncelik vermeye başlayabilirsiniz, böylece neye ve ne zaman odaklanacağınızı "
+"tam olarak bilirsiniz."
+
+#: src/Utils.vala:867
+msgid "Adding new tasks"
+msgstr "Yeni görevler ekleme"
+
+#: src/Utils.vala:868
+msgid ""
+"- To add a new task to Planner, just click + and press Enter.\n"
+"- When your task is created, click on the task to be able to edit it, add a "
+"note or some other options."
+msgstr ""
+"- Planlayıcı'ya yeni bir görev eklemek için + işaretini tıklayıp Enter "
+"tuşuna basmanız yeterlidir.\n"
+"- Göreviniz oluşturulduğunda, düzenlemek, not eklemek veya diğer bazı "
+"seçenekler için göreve tıklayın."
+
+#: src/Utils.vala:874
+msgid "Due dates"
+msgstr "Bitiş tarihleri"
+
+#: src/Utils.vala:875
+msgid ""
+"- If you know you need to have the task done on a certain day, click on the "
+"calendar icon and select a date.\n"
+"- If you want to delete the due date, repeat the process and select the "
+"\"undate\" option."
+msgstr ""
+"- Görevin belirli bir günde yapılması gerektiğini biliyorsanız takvim "
+"simgesini tıklayın ve bir tarih seçin.\n"
+"- Bitiş tarihini silmek istiyorsanız, işlemi tekrarlayın ve \"tarih\" "
+"seçeneğini seçin."
+
+#: src/Utils.vala:881
+msgid "How to use projects"
+msgstr "Planlar nasıl kullanılır"
+
+#: src/Utils.vala:882
+msgid ""
+"- Whether you’re planning a presentation, preparing for an event or creating "
+"a website, create a project so all the important details are saved in one "
+"central place.\n"
+"- In the navigation menu on the left, at the bottom, click on the + symbol.\n"
+"- In the options menu select 'Project' and type out the name of your new "
+"project.\n"
+"- Select a source from the drop-down menu.\n"
+"- (Optional) Select a different project color from the color list.\n"
+"- Click Add to create the project."
+msgstr ""
+"- İster bir sunum planlıyor, ister bir etkinlik için hazırlanıyor ya da bir "
+"web sitesi oluşturuyor olun, tüm önemli ayrıntıların tek bir merkezi yere "
+"kaydedilmesi için bir planı oluşturun.\n"
+"- Soldaki gezinme menüsünde, alttaki + simgesine tıklayın.\n"
+"- Seçenekler menüsünde 'Planı' seçin ve yeni projenizin adını yazın.\n"
+"- Açılır menüden bir kaynak seçin.\n"
+"- (İsteğe bağlı) Renk listesinden farklı bir proje rengi seçin.\n"
+"- Planı oluşturmak için Ekle'yi tıklayın."
+
+#: src/Utils.vala:892
+msgid "Sections"
+msgstr "Bölümler"
+
+#: src/Utils.vala:898
+msgid "Add sections"
+msgstr "Bölüm ekle"
+
+#: src/Utils.vala:899
+msgid ""
+"- It’s always easier to take on a big project when you split it into easily "
+"manageable parts using Planner’s sections.\n"
+"- Organize your projects with sections to group your tasks together and get "
+"a better overview of what needs to be done. Add sections to your project, "
+"drag the relevant tasks to the section they belong in, and you’ll find it a "
+"lot easier to make progress (instead of getting overwhelmed by a single long "
+"list).\n"
+"- At the top right of a project, click the + icon.\n"
+"- Type the name of your section and click Add."
+msgstr ""
+"- Planner'ın bölümlerini kullanarak kolayca yönetilebilir parçalara "
+"böldüğünüzde büyük bir plan üstlenmek her zaman daha kolaydır.\n"
+"- Görevlerinizi birlikte gruplandırmak ve yapılması gerekenler hakkında daha "
+"iyi bir genel bakış elde etmek için planlarınızı bölümlerle organize edin. "
+"Planlarınıza bölümler ekleyin, ilgili görevleri ait oldukları bölüme "
+"sürükleyin ve ilerleme kaydetmenin çok daha kolay olduğunu göreceksiniz (tek "
+"bir uzun liste tarafından boğulmak yerine).\n"
+"- Bir planın sağ üst köşesinde + simgesini tıklayın.\n"
+"- Bölümünüzün adını yazın ve Ekle'yi tıklayın."
+
+#: src/Utils.vala:918
+msgid "Create a new task"
+msgstr "Yeni bir görev oluştur"
+
+#: src/Utils.vala:919
+msgid "Create a new task at the top of the list (only works inside projects)"
+msgstr ""
+"Listenin en üstünde yeni bir görev oluşturun (yalnızca planların içinde "
+"çalışır)"
+
+#: src/Utils.vala:920
+msgid "Create a new area"
+msgstr "Yeni bir alan oluştur"
+
+#: src/Utils.vala:921
+msgid "Create a new project"
+msgstr "Yeni bir plan oluştur"
+
+#: src/Utils.vala:922
+msgid "Create a new section"
+msgstr "Yeni bir bölüm oluştur"
+
+#: src/Utils.vala:923
+msgid "Open the Inbox"
+msgstr "Gelen Kutusunu açın"
+
+#: src/Utils.vala:924
+msgid "Open Today"
+msgstr "Bugün açık"
+
+#: src/Utils.vala:925
+msgid "Open Upcoming"
+msgstr "Yaklaşanları Aç"
+
+#: src/Utils.vala:926
+msgid "Open Search"
+msgstr "Aramayı Aç"
+
+#: src/Utils.vala:927
+msgid "Manually sync"
+msgstr "Manuel olarak senkronize et"
+
+#: src/Utils.vala:928
+msgid "Quit"
+msgstr "Çıkış"
+
+#: src/Utils.vala:936
+msgid "The request was incorrect."
+msgstr "İstek yanlış."
+
+#: src/Utils.vala:937
+msgid ""
+"Authentication is required, and has failed, or has not yet been provided."
+msgstr "Kimlik doğrulama gerekiyor ve başarısız oldu veya henüz sağlanmadı."
+
+#: src/Utils.vala:938
+msgid "The request was valid, but for something that is forbidden."
+msgstr "İstek geçerliydi, ancak yasak olan bir şey için."
+
+#: src/Utils.vala:939
+msgid "The requested resource could not be found."
+msgstr "İstenen kaynak bulunamadı."
+
+#: src/Utils.vala:940
+msgid "The user has sent too many requests in a given amount of time."
+msgstr "Kullanıcı belirli bir süre içinde çok fazla istek gönderdi."
+
+#: src/Utils.vala:941
+msgid "The request failed due to a server error."
+msgstr "Bir sunucu hatası nedeniyle istek başarısız oldu."
+
+#: src/Utils.vala:942
+msgid "The server is currently unable to handle the request."
+msgstr "Sunucu şu anda isteği işleyemiyor."
+
+#. search_row = new Widgets.ActionRow (_("Quick Find"), "system-search-symbolic", "search", _("Your Inbox is the default place to add new tasks so you can get them out of your head quickly, then come back and make a plan to take care of them later. It’s a great way to declutter your mind so you can focus on whatever you’re doing right now."));
+#: src/Services/Database.vala:1035 src/Widgets/Pane.vala:72
+#: src/Widgets/ItemRow.vala:1324 src/Widgets/SectionRow.vala:750
+#: src/Views/Inbox.vala:82 src/Dialogs/Preferences/Preferences.vala:229
+#: src/Dialogs/Preferences/Preferences.vala:336 src/Dialogs/QuickFind.vala:69
+msgid "Inbox"
+msgstr "Gelen Kutusu"
+
+#: src/Services/Calendar/Util.vala:274
+msgid "On this computer"
+msgstr "Bu bilgisayarda"
+
+#: src/Widgets/ActionRow.vala:84 src/Widgets/ProjectRow.vala:150
+msgid "Todoist Project"
+msgstr "Todoist Planı"
+
+#: src/Widgets/ActionRow.vala:274 src/Widgets/ProjectRow.vala:397
+msgid "Unable to move task"
+msgstr ""
+
+#. vala-lint=line-length
+#: src/Widgets/Pane.vala:74 src/Widgets/Pane.vala:410
+#: src/Views/Upcoming.vala:36 src/Dialogs/Preferences/Preferences.vala:236
+#: src/Dialogs/QuickFind.vala:83
+msgid "Upcoming"
+msgstr "Yaklaşan"
+
+#: src/Widgets/Pane.vala:82 src/Widgets/New.vala:481
+#, fuzzy
+msgid "Add Project"
+msgstr "Plan Ekle"
+
+#: src/Widgets/Pane.vala:202 src/Dialogs/QuickFind.vala:143
+msgid "Quick Find"
+msgstr "Hızlı Arama"
+
+#: src/Widgets/Pane.vala:216
+msgid "Preferences"
+msgstr "Tercihler"
+
+#: src/Widgets/Pane.vala:238 src/Widgets/Pane.vala:472
+msgid "Sync"
+msgstr "Eşitleme"
+
+#: src/Widgets/Pane.vala:476
+msgid "Offline mode is on"
+msgstr "Çevrimdışı mod açık"
+
+#: src/Widgets/Pane.vala:476
+msgid ""
+"Looks like you'are not connected to the\n"
+"internet. Changes you make in offline\n"
+"mode will be synced when you reconnect"
+msgstr ""
+"Görünüşe göre internet. \n"
+"Çevrimdışı yaptığınız değişiklikler\n"
+"yeniden bağlandığınızda mod senkronize edilecek"
+
+#: src/Widgets/New.vala:64 src/Views/Inbox.vala:928 src/Views/Project.vala:1310
+#: src/Dialogs/ProjectSettings.vala:49
+msgid "Name:"
+msgstr "İsim:"
+
+#: src/Widgets/New.vala:89 src/Dialogs/ProjectSettings.vala:55
+msgid "Description:"
+msgstr "Açıklama:"
+
+#: src/Widgets/New.vala:107
+msgid "Folder:"
+msgstr ""
+
+#: src/Widgets/New.vala:122 src/Dialogs/ProjectSettings.vala:98
+msgid "Color:"
+msgstr "Renk:"
+
+#: src/Widgets/New.vala:162 src/Widgets/NewItem.vala:91
+#: src/Widgets/ReminderButton.vala:250 src/Widgets/NewSection.vala:81
+#: src/Views/Inbox.vala:944 src/Views/Project.vala:1326
+msgid "Add"
+msgstr "Ekle"
+
+#: src/Widgets/New.vala:167 src/Widgets/NewItem.vala:96
+#: src/Widgets/SectionRow.vala:166 src/Widgets/AreaRow.vala:148
+#: src/Widgets/ReminderButton.vala:248 src/Widgets/NewSection.vala:85
+#: src/Widgets/NewLabel.vala:77 src/Views/Inbox.vala:949
+#: src/Views/Project.vala:220 src/Views/Project.vala:1331
+msgid "Cancel"
+msgstr "İptal Et"
+
+#: src/Widgets/New.vala:314
+msgid "Local"
+msgstr "Yerel"
+
+#: src/Widgets/New.vala:389 src/Widgets/ProjectRow.vala:491
+msgid "No Folder"
+msgstr ""
+
+#: src/Widgets/New.vala:462
+msgid "Project"
+msgstr "Plan"
+
+#: src/Widgets/New.vala:467
+msgid "Start a new project, create a to do list, organize your notes."
+msgstr ""
+"Yeni bir plan başlatın, bir yapılacaklar listesi oluşturun, notlarınızı "
+"düzenleyin."
+
+#: src/Widgets/New.vala:494
+msgid "Folder"
+msgstr ""
+
+#: src/Widgets/New.vala:499
+msgid "Organize your projects in groups and keep your panel clean."
+msgstr "Planlarınızı gruplar halinde düzenleyin ve panelinizi temiz tutun."
+
+#: src/Widgets/New.vala:512
+#, fuzzy
+msgid "Add Folder"
+msgstr "Not ekle"
+
+#: src/Widgets/New.vala:518 src/Dialogs/ProjectSettings.vala:157
+#: src/Dialogs/Preferences/Preferences.vala:78
+msgid "Close"
+msgstr "Kapat"
+
+#: src/Widgets/New.vala:582
+msgid "New folder"
+msgstr ""
+
+#: src/Widgets/ProjectRow.vala:123 src/Views/Inbox.vala:129
+#: src/Views/Project.vala:205
+msgid "Project Menu"
+msgstr "Plan Menüsü"
+
+#: src/Widgets/ProjectRow.vala:146
+msgid "Local Project"
+msgstr "Yerel Plan"
+
+#: src/Widgets/ProjectRow.vala:389 src/Widgets/ItemRow.vala:1333
+#: src/Widgets/ItemRow.vala:1353 src/Widgets/ItemRow.vala:1387
+#: src/Widgets/SectionRow.vala:1007 src/Widgets/SectionRow.vala:1064
+#, c-format
+msgid "Task moved to <b>%s</b>"
+msgstr "Görev şu konuma taşındı <b>%s</b>"
+
+#: src/Widgets/ProjectRow.vala:547 src/Widgets/ItemRow.vala:1420
+#: src/Widgets/AreaRow.vala:651 src/Views/Project.vala:1035
+msgid "Edit"
+msgstr "Düzenle"
+
+#: src/Widgets/ProjectRow.vala:548
+msgid "Move"
+msgstr ""
+
+#: src/Widgets/ProjectRow.vala:552 src/Widgets/ItemRow.vala:1441
+#: src/Widgets/SectionRow.vala:816
+msgid "Share"
+msgstr "Paylaş"
+
+#: src/Widgets/ProjectRow.vala:556
+msgid "Send by e-mail"
+msgstr "E-posta ile göndermek"
+
+#. var share_text_menu = new Widgets.ImageMenuItem (_("Text"), "text-x-generic-symbolic");
+#: src/Widgets/ProjectRow.vala:557 src/Widgets/ItemRow.vala:1446
+#: src/Widgets/SectionRow.vala:821
+msgid "Markdown"
+msgstr "İndirim"
+
+#. var duplicate_menu = new Widgets.ImageMenuItem (_("Duplicate"), "edit-copy-symbolic");
+#. var archive_menu = new Widgets.ModelButton (_("Archive project"), "planner-archive-symbolic");
+#: src/Widgets/ProjectRow.vala:565 src/Widgets/ProjectRow.vala:592
+#: src/Widgets/ItemRow.vala:1453 src/Widgets/SectionRow.vala:827
+#: src/Widgets/SectionRow.vala:870 src/Widgets/AreaRow.vala:652
+#: src/Widgets/AreaRow.vala:690 src/Widgets/CheckRow.vala:81
+#: src/Views/Project.vala:1038 src/Views/Project.vala:1111
+msgid "Delete"
+msgstr "Sil"
+
+#: src/Widgets/ProjectRow.vala:587 src/Views/Project.vala:1106
+msgid "Delete project"
+msgstr "Planı Sil"
+
+#: src/Widgets/ProjectRow.vala:588 src/Widgets/SectionRow.vala:866
+#: src/Widgets/AreaRow.vala:678 src/Views/Project.vala:1107
+#, c-format
+msgid "Are you sure you want to delete <b>%s</b>?"
+msgstr "Silmek istediğine emin misin <b>%s</b>?"
+
+#: src/Widgets/NewItem.vala:69 src/Widgets/ItemRow.vala:220
+#: src/Widgets/AreaRow.vala:122 src/Widgets/CheckRow.vala:66
+msgid "Task name"
+msgstr "Görev adı"
+
+#: src/Widgets/ItemRow.vala:184
+#, fuzzy
+msgid "Hide Details"
+msgstr "Detayları Göster"
+
+#: src/Widgets/ItemRow.vala:502
+msgid "Add Checklist"
+msgstr "Kontrol Listesi Ekle"
+
+#: src/Widgets/ItemRow.vala:509
+msgid "Delete Task"
+msgstr "Görevi Sil"
+
+#: src/Widgets/ItemRow.vala:523
+msgid "Task Menu"
+msgstr "Görev Menüsü"
+
+#: src/Widgets/ItemRow.vala:690 src/Widgets/ItemRow.vala:1506
+#, fuzzy
+msgid "Task deleted"
+msgstr "Görev tamamlandı"
+
+#: src/Widgets/ItemRow.vala:1012
+#, c-format
+msgid "Completed. Next occurrence: %s"
+msgstr ""
+
+#: src/Widgets/ItemRow.vala:1025
+#, fuzzy
+msgid "1 task completed"
+msgstr "Görev tamamlandı"
+
+#: src/Widgets/ItemRow.vala:1366
+msgid "No Section"
+msgstr "Bölüm Yok"
+
+#: src/Widgets/ItemRow.vala:1419
+msgid "Complete"
+msgstr "Tamamlandı"
+
+#: src/Widgets/ItemRow.vala:1428 src/Widgets/DueButton.vala:208
+msgid "Undated"
+msgstr "Tarihsiz"
+
+#: src/Widgets/ItemRow.vala:1433 src/Widgets/SectionRow.vala:812
+msgid "Move to Project"
+msgstr "Planı Taşı"
+
+#: src/Widgets/ItemRow.vala:1437
+msgid "Move to Section"
+msgstr "Bölümü Taşı"
+
+#: src/Widgets/ItemRow.vala:1445
+msgid "Text"
+msgstr "Metin"
+
+#: src/Widgets/ItemRow.vala:1452
+msgid "Duplicate"
+msgstr "Çoğaltmak"
+
+#: src/Widgets/ItemRow.vala:1578 src/Widgets/ItemCompletedRow.vala:41
+msgid "Note"
+msgstr "Not"
+
+#: src/Widgets/ItemCompletedRow.vala:39
+msgid "Content"
+msgstr "İçerik"
+
+#: src/Widgets/ItemCompletedRow.vala:45
+msgid "Due date"
+msgstr "Bitiş tarihi"
+
+#: src/Widgets/ItemCompletedRow.vala:48
+msgid "Date completed"
+msgstr "Tamamlanma tarihi"
+
+#. hidden_button.margin_end = 6;
+#: src/Widgets/SectionRow.vala:85 src/Widgets/SectionRow.vala:936
+msgid "Display Tasks"
+msgstr "Ekran Görevleri"
+
+#: src/Widgets/SectionRow.vala:97 src/Widgets/SectionRow.vala:941
+msgid "Hiding Tasks"
+msgstr "Görevleri Gizleme"
+
+#: src/Widgets/SectionRow.vala:102 src/Widgets/SectionRow.vala:806
+#: src/Widgets/MagicButton.vala:32
+msgid "Add Task"
+msgstr "Görev Ekle"
+
+#: src/Widgets/SectionRow.vala:125 src/Widgets/NewSection.vala:69
+msgid "Section name"
+msgstr "Bölüm adı"
+
+#: src/Widgets/SectionRow.vala:145 src/Widgets/AreaRow.vala:97
+msgid "Section Menu"
+msgstr "Bölüm Menüsü"
+
+#. top_box.pack_end (hidden_revealer, false, true, 0);
+#. top_box.margin_top = 6;
+#: src/Widgets/SectionRow.vala:162 src/Widgets/AreaRow.vala:144
+#: src/Views/Project.vala:216 src/Dialogs/ProjectSettings.vala:159
+msgid "Save"
+msgstr "Kaydet"
+
+#: src/Widgets/SectionRow.vala:199 src/Views/Project.vala:248
+#, fuzzy
+msgid "Add a description"
+msgstr "Bölüm Ekle"
+
+#: src/Widgets/SectionRow.vala:208 src/Views/Project.vala:849
+#, fuzzy
+msgid "Description"
+msgstr "Bölümü Sil"
+
+#: src/Widgets/SectionRow.vala:757 src/Widgets/SectionRow.vala:778
+#, c-format
+msgid "Section moved to <b>%s</b>"
+msgstr "Bölüm taşındı <b>%s</b>"
+
+#: src/Widgets/SectionRow.vala:809
+msgid "Rename"
+msgstr ""
+
+#: src/Widgets/SectionRow.vala:810
+#, fuzzy
+msgid "Add Note"
+msgstr "Not ekle"
+
+#: src/Widgets/SectionRow.vala:865
+msgid "Delete section"
+msgstr "Bölümü Sil"
+
+#: src/Widgets/SectionRow.vala:883
+msgid "Section deleted"
+msgstr "Bölüm silindi"
+
+#: src/Widgets/DueButton.vala:54 src/Widgets/DueButton.vala:63
+#: src/Widgets/DueButton.vala:134
+msgid "Schedule"
+msgstr ""
+
+#: src/Widgets/DueButton.vala:217
+msgid "Repeat"
+msgstr ""
+
+#: src/Widgets/DueButton.vala:240
+msgid "Every day"
+msgstr ""
+
+#: src/Widgets/DueButton.vala:246
+msgid "Every week"
+msgstr ""
+
+#: src/Widgets/DueButton.vala:252
+msgid "Every month"
+msgstr ""
+
+#: src/Widgets/DueButton.vala:258
+msgid "Every year"
+msgstr ""
+
+#: src/Widgets/LabelButton.vala:40 src/Dialogs/Preferences/Preferences.vala:116
+#: src/Dialogs/Preferences/Preferences.vala:767 src/Dialogs/QuickFind.vala:279
+#: src/Dialogs/QuickFind.vala:655
+msgid "Labels"
+msgstr "Etiketler"
+
+#: src/Widgets/LabelButton.vala:50
+msgid "labels"
+msgstr "etiketler"
+
+#: src/Widgets/LabelButton.vala:90 src/Widgets/LabelButton.vala:243
+#, fuzzy
+msgid "Using Labels"
+msgstr "Etiketler"
+
+#: src/Widgets/LabelButton.vala:91 src/Widgets/LabelButton.vala:244
+msgid ""
+"Categorize your to-dos with labels, then use them to filter your lists and "
+"get focused."
+msgstr ""
+
+#: src/Widgets/LabelButton.vala:123
+msgid "Type a label"
+msgstr "Bir etiket yazın"
+
+#: src/Widgets/LabelButton.vala:133 src/Widgets/LabelButton.vala:223
+#: src/Widgets/LabelButton.vala:241
+msgid "Edit labels"
+msgstr "Etiketleri düzenle"
+
+#: src/Widgets/LabelButton.vala:233
+#, fuzzy
+msgid "Add label"
+msgstr "Etiket Ekle"
+
+#: src/Widgets/LabelButton.vala:236
+msgid "Label not found"
+msgstr ""
+
+#: src/Widgets/LabelButton.vala:237
+#, c-format
+msgid "Create '%s'"
+msgstr "'%s' oluştur"
+
+#: src/Widgets/Toast.vala:68
+msgid "Undo"
+msgstr "Geri al"
+
+#: src/Widgets/AreaRow.vala:648
+msgid "Add project"
+msgstr "Plan Ekle"
+
+#: src/Widgets/AreaRow.vala:677
+#, fuzzy
+msgid "Delete folder"
+msgstr "Planı Sil"
+
+#: src/Widgets/AreaRow.vala:685
+msgid "Delete projects"
+msgstr "Planları Sil"
+
+#: src/Widgets/NewCheck.vala:73
+msgid "Subtask name"
+msgstr "Alt görev adı"
+
+#: src/Widgets/LabelItem.vala:43
+msgid "Remove"
+msgstr ""
+
+#: src/Widgets/UpcomingRow.vala:76
+msgid "Add task"
+msgstr "Görev ekle"
+
+#: src/Widgets/ReminderButton.vala:43
+msgid "Reminders"
+msgstr "Hatırlatmalar"
+
+#: src/Widgets/ReminderButton.vala:179
+msgid "Add reminder"
+msgstr "Hatırlatıcı Ekle"
+
+#: src/Widgets/ReminderButton.vala:221
+msgid "Never forget a task again! Have Planner send you a reminder."
+msgstr ""
+
+#: src/Widgets/ReminderButton.vala:241
+msgid "Time:"
+msgstr "Zaman:"
+
+#: src/Widgets/NewLabel.vala:42
+msgid "Add Label"
+msgstr "Etiket Ekle"
+
+#: src/Widgets/Calendar/CalendarHeader.vala:34
+msgid "%OB, %Y"
+msgstr "%OB, %Y"
+
+#: src/Widgets/Calendar/CalendarHeader.vala:43
+msgid "%OB %Y"
+msgstr "%OB %Y"
+
+#: src/Widgets/Calendar/CalendarWeek.vala:27
+msgid "Mon"
+msgstr "Pzt"
+
+#: src/Widgets/Calendar/CalendarWeek.vala:30
+msgid "Tue"
+msgstr "Sal"
+
+#: src/Widgets/Calendar/CalendarWeek.vala:33
+msgid "Wed"
+msgstr "Çrş"
+
+#: src/Widgets/Calendar/CalendarWeek.vala:36
+msgid "Thu"
+msgstr "Per"
+
+#: src/Widgets/Calendar/CalendarWeek.vala:39
+msgid "Fri"
+msgstr "Cum"
+
+#: src/Widgets/Calendar/CalendarWeek.vala:42
+msgid "Sat"
+msgstr "Cts"
+
+#: src/Widgets/Calendar/CalendarWeek.vala:45
+msgid "Sun"
+msgstr "Pzr"
+
+#: src/Views/Welcome.vala:26
+msgid "Never worry about forgetting things again"
+msgstr "Bir daha asla bir şeyleri unutma konusunda endişelenme"
+
+#: src/Views/Welcome.vala:28
+msgid "Startup"
+msgstr "Başlamak"
+
+#: src/Views/Welcome.vala:28
+msgid "Start working locally."
+msgstr "Yerel olarak çalışmaya başlayın."
+
+#: src/Views/Welcome.vala:29 src/Dialogs/Preferences/Preferences.vala:890
+msgid "Todoist"
+msgstr "Todoist"
+
+#: src/Views/Welcome.vala:29
+msgid "Synchronize with your Todoist account and start working."
+msgstr "Todoist hesabınızla senkronize edin ve çalışmaya başlayın."
+
+#: src/Views/Inbox.vala:93 src/Views/Project.vala:161
+#: src/Views/Project.vala:169
+msgid "Add Section"
+msgstr "Bölüm Ekle"
+
+#: src/Views/Inbox.vala:101 src/Views/Project.vala:177
+msgid "Invite person"
+msgstr "Kişiyi davet et"
+
+#: src/Views/Inbox.vala:110 src/Views/Project.vala:186
+msgid "Project comments"
+msgstr "Plan açıklaması"
+
+#: src/Views/Inbox.vala:118 src/Views/Project.vala:194
+msgid "Search task"
+msgstr "Görevleri Arama"
+
+#: src/Views/Inbox.vala:285
+msgid "All clear"
+msgstr "Tümünü sil"
+
+#: src/Views/Inbox.vala:286
+msgid "Looks like everything's organized in the right place."
+msgstr "Görünüşe göre her şey doğru yerde organize edilmiş."
+
+#: src/Views/Inbox.vala:801 src/Views/Project.vala:1047
+msgid "Show Completed"
+msgstr "Tamamlananları Göster"
+
+#: src/Views/Today.vala:93
+msgid "Overdue"
+msgstr ""
+
+#: src/Views/Today.vala:109
+msgid "Reschedule"
+msgstr ""
+
+#: src/Views/Today.vala:138
+msgid "What tasks are on your mind?"
+msgstr "Aklınızda hangi görevler var?"
+
+#: src/Views/Today.vala:139
+msgid "Tap + to add a task for today."
+msgstr "Bugün için bir görev eklemek için + işaretine dokunun."
+
+#: src/Views/Project.vala:143 src/Views/Project.vala:826
+#, c-format
+msgid "Progress: %s"
+msgstr ""
+
+#: src/Views/Project.vala:392
+msgid "What will you accomplish?"
+msgstr "Ne yapacaksın?"
+
+#: src/Views/Project.vala:393
+msgid "Tap + to add a task to this project."
+msgstr "Bu plana bir görev eklemek için + işaretine dokunun."
+
+#: src/Views/Project.vala:1250
+msgid "Your Productivity"
+msgstr ""
+
+#: src/Views/Project.vala:1255
+msgid "Progress:"
+msgstr ""
+
+#: src/Views/Project.vala:1266
+msgid "Duedate:"
+msgstr "Bitiş tarihi:"
+
+#: src/Dialogs/TodoistOAuth.vala:45 src/Dialogs/TodoistOAuth.vala:122
+msgid "Loading…"
+msgstr "Yükleniyor…"
+
+#. Alert
+#: src/Dialogs/TodoistOAuth.vala:69 src/Dialogs/TodoistOAuth.vala:136
+msgid "Network Is Not Available"
+msgstr "Ağ Kullanılamıyor"
+
+#: src/Dialogs/TodoistOAuth.vala:70
+msgid "Connect to the Internet to connect with Todoist"
+msgstr "Todoist ile bağlanmak için İnternet'e bağlanın"
+
+#: src/Dialogs/TodoistOAuth.vala:103
+msgid "Synchronizing… Wait a moment please."
+msgstr "Senkronize ediliyor… Bir dakika bekleyin lütfen."
+
+#: src/Dialogs/TodoistOAuth.vala:114
+msgid "Please enter your credentials…"
+msgstr "Lütfen kimlik bilgilerinizi girin…"
+
+#: src/Dialogs/ProjectSettings.vala:74
+msgid "Deadline:"
+msgstr ""
+
+#: src/Dialogs/ProjectSettings.vala:129
+msgid "Uploading changes…"
+msgstr "Değişiklikler yükleniyor…"
+
+#. General
+#: src/Dialogs/Preferences/Preferences.vala:89
+#: src/Dialogs/Preferences/Preferences.vala:96
+#: src/Dialogs/Preferences/Preferences.vala:627
+msgid "General"
+msgstr "Genel"
+
+#: src/Dialogs/Preferences/Preferences.vala:92
+#: src/Dialogs/Preferences/Preferences.vala:215
+msgid "Homepage"
+msgstr "Anasayfa"
+
+#: src/Dialogs/Preferences/Preferences.vala:93
+#: src/Dialogs/Preferences/Preferences.vala:319
+msgid "Badge Count"
+msgstr "Rozet Sayısı"
+
+#: src/Dialogs/Preferences/Preferences.vala:94
+#: src/Dialogs/Preferences/Preferences.vala:392
+msgid "Theme"
+msgstr "Tema"
+
+#: src/Dialogs/Preferences/Preferences.vala:95
+#: src/Dialogs/Preferences/Preferences.vala:463
+msgid "Quick Add"
+msgstr "Hızlı Ekleme"
+
+#. Addons
+#: src/Dialogs/Preferences/Preferences.vala:111
+msgid "Add-ons"
+msgstr "Eklenti"
+
+#: src/Dialogs/Preferences/Preferences.vala:115
+#: src/Dialogs/Preferences/Preferences.vala:1029
+msgid "Calendar Events"
+msgstr "Takvim Etkinlikleri"
+
+#: src/Dialogs/Preferences/Preferences.vala:117
+#: src/Dialogs/Preferences/Preferences.vala:476
+msgid "Keyboard Shortcuts"
+msgstr "Klavye Kısayolları"
+
+#. Others
+#: src/Dialogs/Preferences/Preferences.vala:132
+#: src/Dialogs/Preferences/Preferences.vala:1201
+msgid "About"
+msgstr "Hakkında"
+
+#: src/Dialogs/Preferences/Preferences.vala:133
+#: src/Dialogs/Preferences/Preferences.vala:1107
+msgid "Support & Credits"
+msgstr "Emeği Geçenler ve Destekciler"
+
+#: src/Dialogs/Preferences/Preferences.vala:218
+msgid ""
+"When you open up Planner, make sure you see the tasks that are most "
+"important. The default homepage is your <b>Inbox</b> view, but you can "
+"change it to whatever you'd like."
+msgstr ""
+"Planlayıcı'yı açtığınızda, en önemli görevleri gördüğünüzden emin olun. "
+"Varsayılan ana sayfa <b>Inbox</b> görünümünüzdür, ancak bunu istediğiniz "
+"gibi değiştirebilirsiniz."
+
+#: src/Dialogs/Preferences/Preferences.vala:250 src/Dialogs/QuickFind.vala:292
+#: src/Dialogs/QuickFind.vala:545
+msgid "Projects"
+msgstr "Planlar"
+
+#: src/Dialogs/Preferences/Preferences.vala:322
+msgid ""
+"Choose which items should be counted for the badge on the application icon."
+msgstr ""
+"Uygulama simgesinde rozet için hangi öğelerin sayılması gerektiğini seçin."
+
+#: src/Dialogs/Preferences/Preferences.vala:332
+msgid "None"
+msgstr "Yok"
+
+#: src/Dialogs/Preferences/Preferences.vala:342
+msgid "Today + Inbox"
+msgstr "Bugün + Gelen Kutusu"
+
+#: src/Dialogs/Preferences/Preferences.vala:395
+msgid ""
+"Personalize the look and feel of your Planner by choosing the theme that "
+"best suits you."
+msgstr ""
+"Size en uygun temayı seçerek Planlayıcınızın görünümünü kişiselleştirin."
+
+#: src/Dialogs/Preferences/Preferences.vala:405
+msgid "Light"
+msgstr "Açık"
+
+#: src/Dialogs/Preferences/Preferences.vala:409
+msgid "Night"
+msgstr "Koyu"
+
+#: src/Dialogs/Preferences/Preferences.vala:412
+#, fuzzy
+msgid "Dark Blue"
+msgstr "Gökyüzü Mavisi"
+
+#: src/Dialogs/Preferences/Preferences.vala:415
+msgid "Arc Dark"
+msgstr ""
+
+#: src/Dialogs/Preferences/Preferences.vala:466
+#, fuzzy
+msgid ""
+"Don't worry about which app you're using. You can use a keyboard shortcut to "
+"open the Quick Add window, where you can enter a pending task and quickly "
+"return to work. You can change the keyboard shortcut whenever you want."
+msgstr ""
+"Hangi uygulamayı kullandığınız konusunda endişelenmeyin. Bekleyen bir görev "
+"girip hemen işe dönebileceğiniz Hızlı Ekle penceresini açmak için bir klavye "
+"kısayolu kullanabilirsiniz."
+
+#: src/Dialogs/Preferences/Preferences.vala:488
+#: src/Dialogs/Preferences/Preferences.vala:569
+#: src/Dialogs/Preferences/Preferences.vala:577
+msgid "Change"
+msgstr "Değişiklik"
+
+#: src/Dialogs/Preferences/Preferences.vala:514
+#, fuzzy
+msgid "Change Keyboard Shortcut"
+msgstr "Klavye Kısayolları"
+
+#: src/Dialogs/Preferences/Preferences.vala:523
+msgid "Save Last Selected Project"
+msgstr "Son Seçilen Planı Kaydet"
+
+#: src/Dialogs/Preferences/Preferences.vala:567
+#: src/Dialogs/Preferences/Preferences.vala:575
+msgid "Press keys…"
+msgstr "Tuşa basın…"
+
+#: src/Dialogs/Preferences/Preferences.vala:630
+msgid "DE Integration"
+msgstr "DE Entegrasyonu"
+
+#: src/Dialogs/Preferences/Preferences.vala:634
+msgid "Run in background"
+msgstr "Arka planda çalıştır"
+
+#: src/Dialogs/Preferences/Preferences.vala:638
+msgid ""
+"Enable this setting to keep Planner running in the background when it "
+"closes. This will allow Planner to continue updating and sending reminder "
+"notifications."
+msgstr ""
+"Planlayıcı kapatıldığında arka planda çalışmasını sağlamak için bu ayarı "
+"etkinleştirin. Bu, Planlayıcı'nın hatırlatma bildirimlerini güncellemeye ve "
+"göndermeye devam etmesini sağlar."
+
+#: src/Dialogs/Preferences/Preferences.vala:646
+msgid "Run on startup"
+msgstr "Başlangıçta çalıştır"
+
+#: src/Dialogs/Preferences/Preferences.vala:650
+msgid "Enable this setting to make Planner startup with the system."
+msgstr "Planlayıcı'yı sistemle başlatmak için bu ayarı etkinleştirin."
+
+#: src/Dialogs/Preferences/Preferences.vala:667
+msgid "Button layout"
+msgstr "Düğme düzeni"
+
+#: src/Dialogs/Preferences/Preferences.vala:676
+msgid "Help"
+msgstr "Yardım"
+
+#: src/Dialogs/Preferences/Preferences.vala:680
+msgid "Create tutorial project"
+msgstr "Eğitim planı oluştur"
+
+#: src/Dialogs/Preferences/Preferences.vala:680
+msgid "Create"
+msgstr "Oluştur"
+
+#: src/Dialogs/Preferences/Preferences.vala:682
+msgid "Danger zone"
+msgstr "Tehlikeli bölge"
+
+#: src/Dialogs/Preferences/Preferences.vala:687
+#: src/Dialogs/Preferences/Preferences.vala:749
+msgid "Reset all"
+msgstr "Tümünü sıfırla"
+
+#: src/Dialogs/Preferences/Preferences.vala:687
+msgid "Reset"
+msgstr "Sıfırla"
+
+#: src/Dialogs/Preferences/Preferences.vala:735
+msgid "Your tutorial project was created"
+msgstr "Eğitim planınız oluşturuldu"
+
+#: src/Dialogs/Preferences/Preferences.vala:744
+msgid "Are you sure you want to reset all?"
+msgstr "Tümünü sıfırlamak istediğinizden emin misiniz?"
+
+#: src/Dialogs/Preferences/Preferences.vala:745
+msgid ""
+"It process removes all stored information without the possibility of undoing "
+"it."
+msgstr "İşlem, saklanan tüm bilgileri geri alma olasılığı olmadan kaldırır."
+
+#: src/Dialogs/Preferences/Preferences.vala:770
+msgid ""
+"Save time by batching similar tasks together using labels. You’ll be able to "
+"pull up a list of all tasks with any given label in a matter of seconds."
+msgstr ""
+"Etiketleri kullanarak benzer görevleri bir araya getirerek zaman kazanın. "
+"Belirli bir etikete sahip tüm görevlerin listesini saniyeler içinde "
+"bulabileceksiniz."
+
+#: src/Dialogs/Preferences/Preferences.vala:914
+#, c-format
+msgid "Last successful sync: %s"
+msgstr "Son başarılı senkronizasyon: %s"
+
+#: src/Dialogs/Preferences/Preferences.vala:923
+msgid "Sync server"
+msgstr "Senkronizasyon sunucusu"
+
+#: src/Dialogs/Preferences/Preferences.vala:928
+msgid ""
+"Activate this setting so that Planner automatically synchronizes with your "
+"Todoist account every 15 minutes."
+msgstr ""
+"Planner'ın 15 dakikada bir otomatik olarak Todoist hesabınızla senkronize "
+"edilmesi için bu ayarı etkinleştirin."
+
+#: src/Dialogs/Preferences/Preferences.vala:940
+#: src/Dialogs/Preferences/Preferences.vala:995
+msgid "Log out"
+msgstr "Çıkış Yap"
+
+#: src/Dialogs/Preferences/Preferences.vala:990
+msgid "Are you sure you want to log out?"
+msgstr "Çıkış yapmak istediğinizden emin misiniz?"
+
+#: src/Dialogs/Preferences/Preferences.vala:991
+msgid "This process will close your Todoist session on this device."
+msgstr "Bu işlem, bu cihazdaki Todoist oturumunuzu kapatır."
+
+#: src/Dialogs/Preferences/Preferences.vala:1032
+msgid ""
+"You can connect your <b>Calendar</b> app to Planner to see your events and "
+"to-dos together in one place. You’ll see events from both personal and "
+"shared calendars in <b>Today</b> and <b>Upcoming</b>. This is useful when "
+"you’re managing your day, and as you plan the week ahead."
+msgstr ""
+"Etkinliklerinizi ve yapılacaklarınızı tek bir yerde görmek için <b>Calendar</"
+"b> uygulamanızı Planlayıcı'ya bağlayabilirsiniz. Hem kişisel hem de "
+"paylaşılan takvimlerdeki etkinlikleri <b>Today</b> and <b>Upcoming</b>.Bu, "
+"gününüzü yönetirken ve önümüzdeki haftayı planlarken faydalıdır."
+
+#: src/Dialogs/Preferences/Preferences.vala:1043
+msgid "Enabled"
+msgstr "Etkin"
+
+#: src/Dialogs/Preferences/Preferences.vala:1110
+msgid ""
+"Planner is being developed with ❤️ and passion for Open Source. However, if "
+"you like Planner and want to support its development, consider donating to "
+"via:"
+msgstr ""
+"Planner, ❤️ ve Açık Kaynak tutkusu ile geliştirilmektedir. Ancak, Planner'ı "
+"seviyorsanız ve gelişimini desteklemek istiyorsanız, şu yolla bağışta "
+"bulunmayı düşünün:"
+
+#: src/Dialogs/Preferences/Preferences.vala:1136
+msgid ""
+"Thanks to them who made a donation via Patreon or PayPal. (If you want to "
+"appear here visit our Patreon account 😉️)"
+msgstr ""
+"Patreon veya PayPal ile bağış yapanlara teşekkürler. (Burada görünmek "
+"istiyorsanız Patreon hesabımızı ziyaret edin 😉️)"
+
+#: src/Dialogs/Preferences/Preferences.vala:1215
+msgid "Website"
+msgstr ""
+
+#: src/Dialogs/Preferences/Preferences.vala:1216
+#, fuzzy
+msgid "Follow"
+msgstr "Sarı"
+
+#: src/Dialogs/Preferences/Preferences.vala:1217
+msgid "Report a Problem"
+msgstr "Problemi şikayet et"
+
+#: src/Dialogs/Preferences/Preferences.vala:1218
+msgid "Suggest Translations"
+msgstr "Çeviri Öner"
+
+#: src/Dialogs/Preferences/Preferences.vala:1337
+msgid "Disabled"
+msgstr "Devre Dışı"
+
+#: src/Dialogs/Preferences/TopBox.vala:43
+msgid "Back"
+msgstr "Geri"
+
+#: src/Dialogs/QuickFind.vala:90
+#, fuzzy
+msgid "Completed"
+msgstr "Tamamlandı"
+
+#: src/Dialogs/QuickFind.vala:99
+msgid "Priority 1"
+msgstr ""
+
+#: src/Dialogs/QuickFind.vala:107
+msgid "Priority 2"
+msgstr ""
+
+#: src/Dialogs/QuickFind.vala:115
+msgid "Priority 3"
+msgstr ""
+
+#: src/Dialogs/QuickFind.vala:123
+msgid "Priority 4"
+msgstr ""
+
+#: src/Dialogs/QuickFind.vala:128
+#, fuzzy
+msgid "Search"
+msgstr "Aramayı Aç"
+
+#: src/Dialogs/QuickFind.vala:156
+msgid "Quickly switch projects and views, find tasks, search by labels."
+msgstr ""
+
+#: src/Dialogs/QuickFind.vala:184
+msgid "UP"
+msgstr ""
+
+#: src/Dialogs/QuickFind.vala:189
+msgid "DOWN"
+msgstr ""
+
+#: src/Dialogs/QuickFind.vala:194
+msgid "ENTER"
+msgstr ""
+
+#: src/Dialogs/QuickFind.vala:199
+msgid "ESC"
+msgstr ""
+
+#: src/Dialogs/QuickFind.vala:209
+msgid "Use"
+msgstr ""
+
+#: src/Dialogs/QuickFind.vala:212
+msgid "to navigate and"
+msgstr ""
+
+#: src/Dialogs/QuickFind.vala:214
+msgid "to select,"
+msgstr ""
+
+#: src/Dialogs/QuickFind.vala:216
+msgid "to close."
+msgstr ""
+
+#: src/Dialogs/QuickFind.vala:492
+msgid "Enter"
+msgstr ""
+
+#: src/Dialogs/QuickFind.vala:506
+#, fuzzy
+msgid "Tasks"
+msgstr "Görevler"
+
+#: src/Dialogs/QuickFind.vala:602
+msgid "Views"
+msgstr ""
+
+#: src/Dialogs/QuickFind.vala:700
+msgid "Priorities"
+msgstr ""
+
+#: src/Objects/Project.vala:104
+msgid "The Project was copied to the Clipboard."
+msgstr "Plan Panoya kopyalandı."
+
+#: src/Objects/Item.vala:125 src/Objects/Item.vala:134
+#, fuzzy
+msgid "Task duplicate"
+msgstr "Çoğaltmak"
+
+#: src/Objects/Item.vala:214 src/Objects/Item.vala:231
+msgid "The Task was copied to the Clipboard."
+msgstr "Görev Panoya kopyalandı."
+
+#: src/Objects/Section.vala:98
+msgid "The Section was copied to the Clipboard."
+msgstr "Bölüm Panoya kopyalandı."
+
+#, fuzzy
+#~ msgid "Duplicate task"
+#~ msgstr "Çoğaltmak"
+
+#~ msgid ""
+#~ "Your Inbox is the default place to add new tasks so you can get them out "
+#~ "of your head quickly, then come back and make a plan to take care of them "
+#~ "later. It’s a great way to declutter your mind so you can focus on "
+#~ "whatever you’re doing right now."
+#~ msgstr ""
+#~ "Gelen Kutunuz, yeni görevleri eklemek için varsayılan yerdir, böylece "
+#~ "bunları hızlı bir şekilde başınızdan çıkarabilir, sonra geri dönebilir ve "
+#~ "daha sonra bunlarla ilgilenmek için bir plan yapabilirsiniz. Şu anda ne "
+#~ "yaptığınıza odaklanabilmeniz için zihninizi dağıtmanın harika bir yoludur."
+
+#~ msgid ""
+#~ "The Today view lets you see all the tasks due today across all your "
+#~ "projects. Check in here every morning to make a realistic plan to tackle "
+#~ "your day."
+#~ msgstr ""
+#~ "Bugün görünümü, bugün tüm planlarınızdan gereken tüm görevleri görmenizi "
+#~ "sağlar. Gününüzü ele almak için gerçekçi bir plan yapmak üzere her sabah "
+#~ "buraya check-in yapın."
+
+#~ msgid ""
+#~ "Plan your week ahead with the Upcoming view. It shows everything on your "
+#~ "agenda for the coming days: scheduled to-dos and calendar events."
+#~ msgstr ""
+#~ "Yaklaşan manzara ile haftanızı önceden planlayın. Önümüzdeki günlerde "
+#~ "gündeminizdeki her şeyi gösterir: planlanan yapılacaklar ve takvim "
+#~ "etkinlikleri."
+
+#~ msgid "New area"
+#~ msgstr "Yeni alan"
+
+#~ msgid "Display Projects"
+#~ msgstr "Planları Sergile"
+
+#~ msgid "Hiding Projects"
+#~ msgstr "Planları Gizle"
+
+#, fuzzy
+#~ msgid "Folder Menu"
+#~ msgstr "Plan Menüsü"
+
+#~ msgid "Due:"
+#~ msgstr "Teslim Tarihi:"
+
+#~ msgid ""
+#~ "All the shortcuts to save you time! Some can be used anywhere in the app, "
+#~ "while others only work when adding or editing tasks."
+#~ msgstr ""
+#~ "Zaman kazanmak için tüm kısayolları kullanın! Bazıları uygulamanın "
+#~ "herhangi bir yerinde kullanılabilirken, diğerleri yalnızca görev eklerken "
+#~ "veya düzenlerken çalışır."
+
+#~ msgid "Add List"
+#~ msgstr "Liste Ekle"
+
+#~ msgid "Due Date"
+#~ msgstr "Bitiş tarihi"
+
+#, fuzzy
+#~ msgid "Move to Folder"
+#~ msgstr "Bölgeye Taşı"
+
+#~ msgid "Hiding"
+#~ msgstr "Gizleme"
+
+#~ msgid "Inbox comments"
+#~ msgstr "Gelen kutusu yorumları"
+
+#~ msgid "Inbox Menu"
+#~ msgstr "Genel Kutusu Menüsü"
+
+#~ msgid "task"
+#~ msgstr "Görev"
+
+#~ msgid "tasks"
+#~ msgstr "Görevler"
+
+#~ msgid "Area:"
+#~ msgstr "Alan:"
+
+#~ msgid "No Area"
+#~ msgstr "Alan Yok"
+
+#~ msgid "Area"
+#~ msgstr "Alan"
+
+#~ msgid "Delete area"
+#~ msgstr "Alanı Sil"
+
+#~ msgid "Back-Pocket"
+#~ msgstr "Arka-Cep"
+
+#~ msgid "Add a note"
+#~ msgstr "Not ekle"
+
+#~ msgid "Add note"
+#~ msgstr "Not ekle"
